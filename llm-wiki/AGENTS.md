@@ -13,6 +13,13 @@ raw/          -- Source LiteParse JSON documents (Immutable -- never modify)
 wiki/         -- Markdown pages maintained by the AI agent
 wiki/index.md -- Master Registry table of all concrete mixes
 wiki/log.md   -- Append-only audit ledger of all file updates
+wiki/products/           -- Canonical product pages named manufacturer_mix_identifier.md
+wiki/manufacturers/      -- Derived manufacturer relationship pages
+wiki/facilities/         -- Derived production facility and region pages
+wiki/standards/          -- Derived standards and PCR relationship pages
+wiki/lifecycle-modules/  -- Derived lifecycle module comparison pages
+wiki/strength-classes/   -- Derived compressive strength grouping pages
+wiki/comparisons/        -- Derived cross-product comparison pages
 ```
 
 ---
@@ -32,9 +39,10 @@ wiki/log.md   -- Append-only audit ledger of all file updates
 
 When a user adds a new raw source file and asks you to ingest it:
 
-1.  Create the unique product page under `wiki/[manufacturer]_[mix_identifier].md` following the layout rules below.
-2.  **Update `wiki/index.md`**: Append a new row to the Master Registry table tracking: Product Name, Manufacturer, Compressive Strength, and a markdown link to the new page.
-3.  **Update `wiki/log.md`**: Append a clean, timestamped entry logging the data insertion (e.g., `- 2026-06-30: Ingested holcim_mix_40.json. Added mix metadata and A1-A3 carbon metrics.`).
+1.  Create the unique product page under `wiki/products/[manufacturer]_[mix_identifier].md` following the layout rules below.
+2.  **Update `wiki/index.md`**: Append a new row to the Master Registry table tracking: Product Name, Manufacturer, Compressive Strength, a markdown link to the new product page, and markdown links to relevant derived relationship pages.
+3.  **Update Derived Relationship Pages**: Add cited rows to all relevant manufacturer, facility, standard, lifecycle module, strength class, and comparison pages. Derived pages must reorganize facts from canonical product pages or raw LiteParse citations only; they must not introduce uncited facts or conversions.
+4.  **Update `wiki/log.md`**: Append a clean, timestamped entry logging the data insertion (e.g., `- 2026-06-30: Ingested holcim_mix_40.json. Added mix metadata and A1-A3 carbon metrics.`).
 
 ---
 
@@ -45,10 +53,16 @@ When the user asks you to lint, verify, or audit the wiki, scan all files and re
 -   **Unit Mismatch Check**: Flag any page using non-standardized phrasing formats that might break downstream JSON regex parsers.
 -   **Missing Citation Check**: Identify any quantitative number or metric that lacks a trailing `[cite:...]` tag.
 -   **Format Compliance**: Flag any page that deviates from the standard structural header layouts.
+-   **Relationship Sync Check**: Flag products that appear in `wiki/index.md` but are missing from relevant derived relationship pages.
 
 ---
 
 ## 5. File Layout Schema
+
+There are two supported wiki page types:
+
+1.  **Canonical Product Pages**: One comprehensive source-backed page per raw EPD/product. These pages are the source of truth and must use the product layout below.
+2.  **Derived Relationship Pages**: Cross-cutting pages under `wiki/manufacturers/`, `wiki/facilities/`, `wiki/standards/`, `wiki/lifecycle-modules/`, `wiki/strength-classes/`, and `wiki/comparisons/`. These pages summarize and link facts from canonical product pages. Every extracted fact or metric on derived pages must include visible citations, and every row must link back to the source product page.
 
 Every generated product wiki file must strictly use this layout:
 
@@ -99,4 +113,14 @@ processing_engine: "LiteParse"
 | --- | --- | --- |
 | C1-C4 (Deconstruction/Disposal modules) | [Value + Unit or "Not Declared"] | [cite:id] |
 | D (Recycling/Reuse/Recovery potential) | [Value + Unit or "Not Declared"] | [cite:id] |
+```
+
+Every derived relationship page must use compact cited tables. The required minimum columns are:
+
+```markdown
+# [Relationship Page Title]
+
+| Entity | Value | Source Product | Cite |
+| --- | --- | --- | --- |
+| [Product, manufacturer, facility, standard, lifecycle module, or strength class] | [Exact cited value] | [Product page link] | [cite:id] |
 ```
