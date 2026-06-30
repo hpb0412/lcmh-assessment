@@ -61,23 +61,42 @@ processing_engine: "LiteParse"
 # [Manufacturer Brand Name] - [Exact Product / Variant Name]
 
 ## 1. Document & Administrative Metadata
-[Encyclopedic paragraph detailing registration numbers, verification bodies, issue dates, and manufacturing facilities with visible citations].
+| Key | Value | Cite |
+| --- | --- | --- |
+| Registration Number | [Exact registration number] | [cite:id] |
+| Verification Body | [Exact verification body] | [cite:id] |
+| Issue Date | [Exact issue date] | [cite:id] |
+| Manufacturing Facility | [Exact facility name and location] | [cite:id] |
 
 ## 2. Material Traits & Technical Specifications
-[Physical traits: compressive strength metrics, curing times, mix designs, SCM percentages, and water-to-cement ratios with visible citations].
+| Key | Value | Cite |
+| --- | --- | --- |
+| Compressive Strength | [Exact value and unit] | [cite:id] |
+| Curing Time | [Exact value and unit] | [cite:id] |
+| Mix Design | [Exact mix design text] | [cite:id] |
+| SCM Percentage | [Exact value and unit] | [cite:id] |
+| Water-to-Cement Ratio | [Exact value] | [cite:id] |
 
 ## 3. Environmental Product Declaration Metrics
-Declared Unit: [Value + Unit] [cite:id]
+| Key | Value | Cite |
+| --- | --- | --- |
+| Declared Unit | [Value + Unit] | [cite:id] |
 
 ### Core Product Stages (A1-A3)
-*   **Status**: [Declared / Not Declared]
-*   **Global Warming Potential**: [Value + Unit] [cite:id]
+| Key | Value | Cite |
+| --- | --- | --- |
+| Status | [Declared / Not Declared] | [cite:id] |
+| Global Warming Potential | [Value + Unit] | [cite:id] |
 
 ### Construction & Distribution Stages (A4-A5)
-*   **A4 (Transport to Site)**: [Value + Unit or "Not Declared"] [cite:id]
-*   **A5 (Installation/Assembly)**: [Value + Unit or "Not Declared"] [cite:id]
+| Key | Value | Cite |
+| --- | --- | --- |
+| A4 (Transport to Site) | [Value + Unit or "Not Declared"] | [cite:id] |
+| A5 (Installation/Assembly) | [Value + Unit or "Not Declared"] | [cite:id] |
 
 ### End of Life & External Benefits (C1-C4, D)
-*   **C1-C4 (Deconstruction/Disposal modules)**: [Value + Unit or "Not Declared"] [cite:id]
-*   **D (Recycling/Reuse/Recovery potential)**: [Value + Unit or "Not Declared"] [cite:id]
+| Key | Value | Cite |
+| --- | --- | --- |
+| C1-C4 (Deconstruction/Disposal modules) | [Value + Unit or "Not Declared"] | [cite:id] |
+| D (Recycling/Reuse/Recovery potential) | [Value + Unit or "Not Declared"] | [cite:id] |
 ```
