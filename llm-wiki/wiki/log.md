@@ -7,3 +7,4 @@
 - 2026-06-30: Renamed Holcim product page to wiki/products/holcim_australia_qe252m100.md to match the manufacturer_mix_identifier file naming directive and updated internal wiki links.
 - 2026-06-30: Moved canonical product pages to wiki/products/ and updated AGENTS.md, index links, and derived relationship links to use the products directory.
 - 2026-06-30: Ingested raw/epd-ies-0023043-s32mpa-greencrete-70.json. Added Piave Premix Concrete S32MPa GreenCrete 70 metadata, material traits, declared unit, A1-A3, A4-A5, C1-C4, and D metrics, plus relationship pages.
+- 2026-06-30: Ingested raw/EPD_HUB-5943_2026-06-27_en.json. Added Entire Concrete N50/20 Xencrete metadata, material traits, declared unit, A1-A3, A4-A5, C1-C4, and D metrics, plus relationship pages.
