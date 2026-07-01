@@ -2,6 +2,11 @@
 
 | Entity | Concept | Value | Unit / Status | Source Product | Cite |
 | --- | --- | --- | --- | --- | --- |
+| Aurora AR2520 | Product | AR2520 pre-mixed concrete | N/A | [Aurora AR2520](../products/aurora_construction_materials_epping_ar2520.md) | [cite:epd-ies-0021754-001-acm-rockbank-ar2520_p1_t5] |
+| Aurora AR2520 | Manufacturer | Aurora Construction Materials Epping Pty. Ltd. (Aurora) | N/A | [Aurora AR2520](../products/aurora_construction_materials_epping_ar2520.md) | [cite:epd-ies-0021754-001-acm-rockbank-ar2520_p4_t3] |
+| Aurora AR2520 | Strength | 25MPa | MPa | [Aurora AR2520](../products/aurora_construction_materials_epping_ar2520.md) | [cite:epd-ies-0021754-001-acm-rockbank-ar2520_p5_t20] |
+| Aurora AR2520 | Declared unit | 1 cubic metre (m3) of Premixed concrete with a 25MPa strength grade and identifying characteristics | declared unit | [Aurora AR2520](../products/aurora_construction_materials_epping_ar2520.md) | [cite:epd-ies-0021754-001-acm-rockbank-ar2520_p7_t4] [cite:epd-ies-0021754-001-acm-rockbank-ar2520_p7_t5] |
+| Aurora AR2520 | A1-A3 GWP | 1.40E+02 kg CO2-eq. | kg CO2-eq. | [Aurora AR2520](../products/aurora_construction_materials_epping_ar2520.md) | [cite:epd-ies-0021754-001-acm-rockbank-ar2520_p18_t13] [cite:epd-ies-0021754-001-acm-rockbank-ar2520_p18_t14] [cite:epd-ies-0021754-001-acm-rockbank-ar2520_p18_t15] |
 | Holcim QX25MOR | Product | QLD - SEQ - GEOStone - QX25MOR - S25 MORETON GEOSTONE - Decorative | N/A | [Holcim QX25MOR](../products/holcim_australia_qx25mor.md) | [cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_p10_t2] |
 | Holcim QX25MOR | Manufacturer | Holcim (Australia) Pty Ltd | N/A | [Holcim QX25MOR](../products/holcim_australia_qx25mor.md) | [cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_p2_t3] |
 | Holcim QX25MOR | Strength | 25 MPa | MPa | [Holcim QX25MOR](../products/holcim_australia_qx25mor.md) | [cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_p10_t20] |

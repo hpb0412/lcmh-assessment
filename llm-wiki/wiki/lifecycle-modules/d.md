@@ -2,6 +2,8 @@
 
 | Entity | Concept | Value | Unit / Status | Source Product | Cite |
 | --- | --- | --- | --- | --- | --- |
+| Aurora AR2520 | Recycling/Reuse/Recovery potential | -9.79E+00 kg CO2-eq. | kg CO2-eq. | [Aurora AR2520](../products/aurora_construction_materials_epping_ar2520.md) | [cite:epd-ies-0021754-001-acm-rockbank-ar2520_p18_t13] [cite:epd-ies-0021754-001-acm-rockbank-ar2520_p18_t14] [cite:epd-ies-0021754-001-acm-rockbank-ar2520_p18_t20] |
+| Aurora AR2520 | Recovery process recycling | 1 908 kg for recycling | kg | [Aurora AR2520](../products/aurora_construction_materials_epping_ar2520.md) | [cite:epd-ies-0021754-001-acm-rockbank-ar2520_p10_t45] [cite:epd-ies-0021754-001-acm-rockbank-ar2520_p10_t46] [cite:epd-ies-0021754-001-acm-rockbank-ar2520_p10_t47] |
 | Holcim QX25MOR | Recycling/Reuse/Recovery potential | -18.8 kg CO2 eq. | kg CO2 eq. | [Holcim QX25MOR](../products/holcim_australia_qx25mor.md) | [cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_p16_t24] |
 | Holcim QX25MOR | National Waste Report recycling and recovery rate | 80% | % | [Holcim QX25MOR](../products/holcim_australia_qx25mor.md) | [cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_p12_t67] [cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_p12_t68] |
 | Holcim QE252M100 | Recycling/Reuse/Recovery potential | -18.5 kg CO2 eq. | kg CO2 eq. | [Holcim QE252M100](../products/holcim_australia_qe252m100.md) | [cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_p16_t23] |

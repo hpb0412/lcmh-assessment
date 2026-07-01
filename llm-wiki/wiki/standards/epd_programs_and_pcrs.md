@@ -2,6 +2,10 @@
 
 | Entity | Concept | Value | Unit / Status | Source Product | Cite |
 | --- | --- | --- | --- | --- | --- |
+| Aurora AR2520 | Aurora AR2520 | The International EPD® System | N/A | [Aurora AR2520](../products/aurora_construction_materials_epping_ar2520.md) | [cite:epd-ies-0021754-001-acm-rockbank-ar2520_p1_t8] |
+| Aurora AR2520 | Aurora AR2520 | EPD Australasia Limited | N/A | [Aurora AR2520](../products/aurora_construction_materials_epping_ar2520.md) | [cite:epd-ies-0021754-001-acm-rockbank-ar2520_p3_t16] |
+| Aurora AR2520 | Aurora AR2520 | PCR 2019:14 Construction Products, Version 2.0.1, 2025-06-05 (valid until 2030-04-07) | N/A | [Aurora AR2520](../products/aurora_construction_materials_epping_ar2520.md) | [cite:epd-ies-0021754-001-acm-rockbank-ar2520_p3_t41] [cite:epd-ies-0021754-001-acm-rockbank-ar2520_p3_t42] |
+| Aurora AR2520 | Aurora AR2520 | c-PCR-003 (to 2019:14) Concrete and concrete elements, version 2025-04-08 | N/A | [Aurora AR2520](../products/aurora_construction_materials_epping_ar2520.md) | [cite:epd-ies-0021754-001-acm-rockbank-ar2520_p3_t48] [cite:epd-ies-0021754-001-acm-rockbank-ar2520_p3_t49] |
 | Holcim QX25MOR | Holcim QX25MOR | International EPD System \| www.environdec.com | N/A | [Holcim QX25MOR](../products/holcim_australia_qx25mor.md) | [cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_p1_t8] |
 | Holcim QX25MOR | Holcim QX25MOR | EPD Australasia \| www.epd-australasia.com | N/A | [Holcim QX25MOR](../products/holcim_australia_qx25mor.md) | [cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_p1_t12] |
 | Holcim QX25MOR | Holcim QX25MOR | PCR 2019:14 Construction Products, Version 2.0.1, 2025-06-05 | N/A | [Holcim QX25MOR](../products/holcim_australia_qx25mor.md) | [cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_p2_t57] |
