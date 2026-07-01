@@ -5,6 +5,13 @@ processing_engine: "LiteParse"
 
 # Holcim - QLD - Brisbane - ECOPact - QE252M100 - S25/20/100 Ecopact Concrete - General use
 
+## Field Inventory
+| Field Group | Representative Fields | Section |
+| --- | --- | --- |
+| Administrative metadata | registration, verification, publication, validity, owner, facility | 1. Document & Administrative Metadata |
+| Technical specifications | product identity, strength, mix code, production sites, composition, packaging | 2. Material Traits & Technical Specifications |
+| EPD metrics | declared unit, lifecycle scope, A1-A3, A4-A5, C1-C4, D | 3. Environmental Product Declaration Metrics |
+
 ## 1. Document & Administrative Metadata
 | Key | Value | Cite |
 | --- | --- | --- |

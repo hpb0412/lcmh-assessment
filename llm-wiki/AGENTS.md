@@ -30,6 +30,8 @@ wiki/comparisons/             -- Derived cross-product comparison pages
 wiki/sources/index.md         -- Raw source document register mapping raw JSON to canonical wiki pages
 ```
 
+The listed relationship folders are required baseline indexes, not a closed taxonomy. If a source document introduces a recurring concept that does not fit these folders, create a new derived page or folder with a clear name, link it from `wiki/index.md`, update relevant folder indexes, and log the structural addition in `wiki/log.md`.
+
 ---
 
 ## 2. Core Operating Principles
@@ -40,6 +42,7 @@ wiki/sources/index.md         -- Raw source document register mapping raw JSON t
     *   *Example*: `42.5 MPa [cite:holcim_boston_p3_t89]`
 3.  **Anti-Zero Omissions**: If a lifecycle stage is omitted or marked MND/NR, explicitly write `Not Declared`. Never assume `0`.
 4.  **No Math/Conversions**: Preserve raw strings and units exactly as written in the LiteParse text tokens (e.g., keep `psi` if written as `psi`).
+5.  **Index-First Retrieval**: For information retrieval, read `wiki/index.md` first; then use folder indexes, `wiki/products/index.md`, or `wiki/sources/index.md` to route. Read derived relationship pages for cross-cutting facts. Read canonical product pages only when detailed source-backed facts are needed. Read raw JSON only for ingestion, citation repair, contradiction checks, or missing source validation.
 
 ---
 
@@ -51,7 +54,7 @@ When a user adds a new raw source file and asks you to ingest it:
 2.  **Update `wiki/products/index.md`**: Append a new row to the Master Product Registry table tracking: Product Name, Manufacturer, Compressive Strength, a markdown link to the new product page, and markdown links to relevant derived relationship pages.
 3.  **Update Derived Relationship Pages**: Add cited rows to all relevant manufacturer, facility, standard, lifecycle module, strength class, and comparison pages. Derived pages must reorganize facts from canonical product pages or raw LiteParse citations only; they must not introduce uncited facts or conversions.
 4.  **Update Folder Indexes**: Keep the relevant folder-level `index.md` pages in sync so each new product, relationship page, comparison, and source document is reachable from `wiki/index.md` within two clicks.
-5.  **Update `wiki/sources/index.md`**: Add or update the raw source document register row mapping the raw JSON file to the canonical product page, EPD registration number, manufacturer, and ingestion status.
+5.  **Update `wiki/sources/index.md`**: Add or update the raw source document register row mapping the raw JSON file to the canonical product page, document type, EPD registration number, manufacturer, and ingestion status.
 6.  **Update `wiki/log.md`**: Append a clean, timestamped entry logging the data insertion (e.g., `- 2026-06-30: Ingested holcim_mix_40.json. Added mix metadata and A1-A3 carbon metrics.`).
 
 ---
@@ -69,7 +72,7 @@ When the user asks you to lint, verify, or audit the wiki, scan all files and re
 
 ## 5. File Layout Schema
 
-There are two supported wiki page types:
+There are three supported wiki page types:
 
 1.  **Canonical Product Pages**: One comprehensive source-backed page per raw EPD/product. These pages are the source of truth and must use the product layout below.
 2.  **Derived Relationship Pages**: Cross-cutting pages under `wiki/manufacturers/`, `wiki/facilities/`, `wiki/standards/`, `wiki/lifecycle-modules/`, `wiki/strength-classes/`, and `wiki/comparisons/`. These pages summarize and link facts from canonical product pages. Every extracted fact or metric on derived pages must include visible citations, and every row must link back to the source product page.
@@ -84,6 +87,13 @@ processing_engine: "LiteParse"
 ---
 
 # [Manufacturer Brand Name] - [Exact Product / Variant Name]
+
+## Field Inventory
+| Field Group | Representative Fields | Section |
+| --- | --- | --- |
+| Administrative metadata | registration, verification, publication, validity, owner, facility | 1. Document & Administrative Metadata |
+| Technical specifications | product identity, strength, mix design, SCM, water-to-cement ratio, composition | 2. Material Traits & Technical Specifications |
+| EPD metrics | declared unit, lifecycle scope, A1-A3, A4-A5, C1-C4, D | 3. Environmental Product Declaration Metrics |
 
 ## 1. Document & Administrative Metadata
 | Key | Value | Cite |

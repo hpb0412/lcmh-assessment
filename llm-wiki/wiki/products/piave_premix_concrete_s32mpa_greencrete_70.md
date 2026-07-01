@@ -5,6 +5,13 @@ processing_engine: "LiteParse"
 
 # Piave Premix Concrete Pty Ltd - Premix Concrete - S32MPa GreenCrete 70
 
+## Field Inventory
+| Field Group | Representative Fields | Section |
+| --- | --- | --- |
+| Administrative metadata | registration, publication, validity, owner, verification, facility, PCRs | 1. Document & Administrative Metadata |
+| Technical specifications | product identity, strength, mix design, SCM, water-to-cement ratio, composition, allocation | 2. Material Traits & Technical Specifications |
+| EPD metrics | declared unit, lifecycle scope, A1-A3, A4-A5, C1-C4, D | 3. Environmental Product Declaration Metrics |
+
 ## 1. Document & Administrative Metadata
 | Key | Value | Cite |
 | --- | --- | --- |

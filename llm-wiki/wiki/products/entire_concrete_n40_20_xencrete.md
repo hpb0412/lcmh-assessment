@@ -5,6 +5,13 @@ processing_engine: "LiteParse"
 
 # Entire Concrete - N40/20 Xencrete
 
+## Field Inventory
+| Field Group | Representative Fields | Section |
+| --- | --- | --- |
+| Administrative metadata | registration, publication, validity, owner, production place, standards, PCRs | 1. Document & Administrative Metadata |
+| Technical specifications | product identity, strength class, aggregate size, slump, composition, LCA data sources | 2. Material Traits & Technical Specifications |
+| EPD metrics | declared unit, lifecycle scope, A1-A3, A4-A5, C1-C4, D | 3. Environmental Product Declaration Metrics |
+
 ## 1. Document & Administrative Metadata
 | Key | Value | Cite |
 | --- | --- | --- |
