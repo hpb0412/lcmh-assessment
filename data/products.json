@@ -1,0 +1,1307 @@
+[
+  {
+    "id": "adbri_limited_sn252f100",
+    "productName": {
+      "value": "Adbri Concrete EPD-SN252F100 South Australia",
+      "citation": "[cite:epd-ies-0021165-sn252f100_l3]"
+    },
+    "manufacturer": {
+      "value": "Adbri Limited",
+      "citation": "[cite:epd-ies-0021165-sn252f100_l250]"
+    },
+    "epdRegistrationNumber": {
+      "value": "EPD-IES-0021165",
+      "citation": "[cite:epd-ies-0021165-sn252f100_l11]"
+    },
+    "canonicalProductPage": "wiki/products/adbri_limited_sn252f100.md",
+    "rawSource": "raw/epd-ies-0021165-sn252f100.md",
+    "declaredUnit": {
+      "value": "one cubic metre (1m3) of manufactured concrete",
+      "citation": "[cite:epd-ies-0021165-sn252f100_l396-l398]"
+    },
+    "compressiveStrength": {
+      "raw": "Not readable as a discrete SN252F100 field in the raw extraction; product grouping variables include Strength (MPa): 20, 25, 32, 40, 50",
+      "citation": "[cite:epd-ies-0021165-sn252f100_l695-l699]"
+    },
+    "manufacturingLocation": {
+      "raw": "South Australia; Burton, Dry Creek, Gawler, Gillman, Littlehampton, Lonsdale, Murray Bridge, Sellicks, Victor Harbor, Welland",
+      "searchableText": "south australia; burton, dry creek, gawler, gillman, littlehampton, lonsdale, murray bridge, sellicks, victor harbor, welland",
+      "citation": "[cite:epd-ies-0021165-sn252f100_l262-l270]"
+    },
+    "lifecycleScope": {
+      "value": "cradle-to-gate with options for modules A4, A5, C1 - C4 and D",
+      "citation": "[cite:epd-ies-0021165-sn252f100_l416-l418]"
+    },
+    "carbon": [
+      {
+        "stage": "A1-A3",
+        "status": "Not Comparable",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0021165-sn252f100_l877-l881] [cite:epd-ies-0021165-sn252f100_l1073-l1075]"
+      },
+      {
+        "stage": "A4",
+        "status": "Not Comparable",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0021165-sn252f100_l877-l881] [cite:epd-ies-0021165-sn252f100_l1073-l1075]"
+      },
+      {
+        "stage": "A5",
+        "status": "Not Comparable",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0021165-sn252f100_l877-l881] [cite:epd-ies-0021165-sn252f100_l1073-l1075]"
+      },
+      {
+        "stage": "B1",
+        "status": "Not Comparable",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0021165-sn252f100_l877-l881] [cite:epd-ies-0021165-sn252f100_l1073-l1075]"
+      },
+      {
+        "stage": "B2",
+        "status": "Not Comparable",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0021165-sn252f100_l877-l881] [cite:epd-ies-0021165-sn252f100_l1073-l1075]"
+      },
+      {
+        "stage": "B3",
+        "status": "Not Comparable",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0021165-sn252f100_l877-l881] [cite:epd-ies-0021165-sn252f100_l1073-l1075]"
+      },
+      {
+        "stage": "B4",
+        "status": "Not Comparable",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0021165-sn252f100_l877-l881] [cite:epd-ies-0021165-sn252f100_l1073-l1075]"
+      },
+      {
+        "stage": "B5",
+        "status": "Not Comparable",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0021165-sn252f100_l877-l881] [cite:epd-ies-0021165-sn252f100_l1073-l1075]"
+      },
+      {
+        "stage": "B6",
+        "status": "Not Comparable",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0021165-sn252f100_l877-l881] [cite:epd-ies-0021165-sn252f100_l1073-l1075]"
+      },
+      {
+        "stage": "B7",
+        "status": "Not Comparable",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0021165-sn252f100_l877-l881] [cite:epd-ies-0021165-sn252f100_l1073-l1075]"
+      },
+      {
+        "stage": "C1",
+        "status": "Not Comparable",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0021165-sn252f100_l877-l881] [cite:epd-ies-0021165-sn252f100_l1073-l1075]"
+      },
+      {
+        "stage": "C2",
+        "status": "Not Comparable",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0021165-sn252f100_l877-l881] [cite:epd-ies-0021165-sn252f100_l1073-l1075]"
+      },
+      {
+        "stage": "C3",
+        "status": "Not Comparable",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0021165-sn252f100_l877-l881] [cite:epd-ies-0021165-sn252f100_l1073-l1075]"
+      },
+      {
+        "stage": "C4",
+        "status": "Not Comparable",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0021165-sn252f100_l877-l881] [cite:epd-ies-0021165-sn252f100_l1073-l1075]"
+      },
+      {
+        "stage": "D",
+        "status": "Not Comparable",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0021165-sn252f100_l877-l881] [cite:epd-ies-0021165-sn252f100_l1073-l1075]"
+      }
+    ],
+    "comparabilityFlags": [
+      "not readable as a stable numeric value in raw extraction"
+    ]
+  },
+  {
+    "id": "aurora_construction_materials_ar2520",
+    "productName": {
+      "value": "AURORA CONSTRUCTION MATERIALS AR2520 pre-mixed concrete",
+      "citation": "[cite:epd-ies-0021754-001-acm-rockbank-ar2520_l11]"
+    },
+    "manufacturer": {
+      "value": "Aurora Construction Materials Epping Pty. Ltd. (Aurora)",
+      "citation": "[cite:epd-ies-0021754-001-acm-rockbank-ar2520_l137]"
+    },
+    "epdRegistrationNumber": {
+      "value": "EPD-IES-0021754:001",
+      "citation": "[cite:epd-ies-0021754-001-acm-rockbank-ar2520_l88]"
+    },
+    "canonicalProductPage": "wiki/products/aurora_construction_materials_ar2520.md",
+    "rawSource": "raw/epd-ies-0021754-001-acm-rockbank-ar2520.md",
+    "declaredUnit": {
+      "value": "1 cubic metre (m3) of Premixed concrete with a 25MPa strength grade",
+      "citation": "[cite:epd-ies-0021754-001-acm-rockbank-ar2520_l237-l239]"
+    },
+    "compressiveStrength": {
+      "raw": "25MPa",
+      "citation": "[cite:epd-ies-0021754-001-acm-rockbank-ar2520_l190-l192]",
+      "valueMpa": 25.0
+    },
+    "manufacturingLocation": {
+      "raw": "Rockbank, Melbourne, Victoria",
+      "searchableText": "rockbank, melbourne, victoria",
+      "citation": "[cite:epd-ies-0021754-001-acm-rockbank-ar2520_l188]"
+    },
+    "lifecycleScope": {
+      "value": "cradle-to-gate plus end-of-life life cycle stages (modules A1-A3, C1-C4, D)",
+      "citation": "[cite:epd-ies-0021754-001-acm-rockbank-ar2520_l241-l243]"
+    },
+    "carbon": [
+      {
+        "stage": "A1-A3",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0021754-001-acm-rockbank-ar2520_l712-l715]",
+        "valueRaw": "1.40E+02",
+        "valueNumber": 140.0,
+        "unit": "kg CO2-eq."
+      },
+      {
+        "stage": "A4",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0021754-001-acm-rockbank-ar2520_l257-l275]"
+      },
+      {
+        "stage": "A5",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0021754-001-acm-rockbank-ar2520_l257-l275]"
+      },
+      {
+        "stage": "B1",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0021754-001-acm-rockbank-ar2520_l257-l275]"
+      },
+      {
+        "stage": "B2",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0021754-001-acm-rockbank-ar2520_l257-l275]"
+      },
+      {
+        "stage": "B3",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0021754-001-acm-rockbank-ar2520_l257-l275]"
+      },
+      {
+        "stage": "B4",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0021754-001-acm-rockbank-ar2520_l257-l275]"
+      },
+      {
+        "stage": "B5",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0021754-001-acm-rockbank-ar2520_l257-l275]"
+      },
+      {
+        "stage": "B6",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0021754-001-acm-rockbank-ar2520_l257-l275]"
+      },
+      {
+        "stage": "B7",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0021754-001-acm-rockbank-ar2520_l257-l275]"
+      },
+      {
+        "stage": "C1",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0021754-001-acm-rockbank-ar2520_l712-l715]",
+        "valueRaw": "1.20E+01",
+        "valueNumber": 12.0,
+        "unit": "kg CO2-eq."
+      },
+      {
+        "stage": "C2",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0021754-001-acm-rockbank-ar2520_l712-l715]",
+        "valueRaw": "1.45E+01",
+        "valueNumber": 14.5,
+        "unit": "kg CO2-eq."
+      },
+      {
+        "stage": "C3",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0021754-001-acm-rockbank-ar2520_l712-l715]",
+        "valueRaw": "8.03E+00",
+        "valueNumber": 8.03,
+        "unit": "kg CO2-eq."
+      },
+      {
+        "stage": "C4",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0021754-001-acm-rockbank-ar2520_l712-l715]",
+        "valueRaw": "8.61E-01",
+        "valueNumber": 0.861,
+        "unit": "kg CO2-eq."
+      },
+      {
+        "stage": "D",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0021754-001-acm-rockbank-ar2520_l712-l715]",
+        "valueRaw": "-9.79E+00",
+        "valueNumber": -9.79,
+        "unit": "kg CO2-eq."
+      }
+    ],
+    "comparabilityFlags": []
+  },
+  {
+    "id": "boral_limited_40_mpa_high_performance_concrete",
+    "productName": {
+      "value": "40 MPa High Performance Concrete",
+      "citation": "[cite:EPD_HUB-5882_2026-06-27_en_l5]"
+    },
+    "manufacturer": {
+      "value": "Boral Limited",
+      "citation": "[cite:EPD_HUB-5882_2026-06-27_en_l67]"
+    },
+    "epdRegistrationNumber": {
+      "value": "HUB-5882",
+      "citation": "[cite:EPD_HUB-5882_2026-06-27_en_l11]"
+    },
+    "canonicalProductPage": "wiki/products/boral_limited_40_mpa_high_performance_concrete.md",
+    "rawSource": "raw/EPD_HUB-5882_2026-06-27_en.md",
+    "declaredUnit": {
+      "value": "1 cubic metre",
+      "citation": "[cite:EPD_HUB-5882_2026-06-27_en_l104]"
+    },
+    "compressiveStrength": {
+      "raw": "S40",
+      "citation": "[cite:EPD_HUB-5882_2026-06-27_en_l103]",
+      "valueMpa": 40.0
+    },
+    "manufacturingLocation": {
+      "raw": "Melbourne",
+      "searchableText": "melbourne",
+      "citation": "[cite:EPD_HUB-5882_2026-06-27_en_l71-l73]"
+    },
+    "lifecycleScope": {
+      "value": "Cradle-to-gate (A1-3) with modules C1-4, D",
+      "citation": "[cite:EPD_HUB-5882_2026-06-27_en_l79]"
+    },
+    "carbon": [
+      {
+        "stage": "A1-A3",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5882_2026-06-27_en_l499-l535]",
+        "valueRaw": "2.97E+02",
+        "valueNumber": 297.0,
+        "unit": "kg CO2e"
+      },
+      {
+        "stage": "A4",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5882_2026-06-27_en_l127-l131]"
+      },
+      {
+        "stage": "A5",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5882_2026-06-27_en_l127-l131]"
+      },
+      {
+        "stage": "B1",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5882_2026-06-27_en_l127-l131]"
+      },
+      {
+        "stage": "B2",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5882_2026-06-27_en_l127-l131]"
+      },
+      {
+        "stage": "B3",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5882_2026-06-27_en_l127-l131]"
+      },
+      {
+        "stage": "B4",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5882_2026-06-27_en_l127-l131]"
+      },
+      {
+        "stage": "B5",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5882_2026-06-27_en_l127-l131]"
+      },
+      {
+        "stage": "B6",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5882_2026-06-27_en_l127-l131]"
+      },
+      {
+        "stage": "B7",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5882_2026-06-27_en_l127-l131]"
+      },
+      {
+        "stage": "C1",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5882_2026-06-27_en_l499-l535]",
+        "valueRaw": "4.45E+00",
+        "valueNumber": 4.45,
+        "unit": "kg CO2e"
+      },
+      {
+        "stage": "C2",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5882_2026-06-27_en_l499-l535]",
+        "valueRaw": "1.26E+01",
+        "valueNumber": 12.6,
+        "unit": "kg CO2e"
+      },
+      {
+        "stage": "C3",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5882_2026-06-27_en_l499-l535]",
+        "valueRaw": "7.16E+00",
+        "valueNumber": 7.16,
+        "unit": "kg CO2e"
+      },
+      {
+        "stage": "C4",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5882_2026-06-27_en_l499-l535]",
+        "valueRaw": "4.38E+00",
+        "valueNumber": 4.38,
+        "unit": "kg CO2e"
+      },
+      {
+        "stage": "D",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5882_2026-06-27_en_l499-l535]",
+        "valueRaw": "-1.28E+01",
+        "valueNumber": -12.8,
+        "unit": "kg CO2e"
+      }
+    ],
+    "comparabilityFlags": []
+  },
+  {
+    "id": "entire_concrete_n40_20_xencrete",
+    "productName": {
+      "value": "N40/20 Xencrete",
+      "citation": "[cite:EPD_HUB-5991_2026-06-27_en_l15]"
+    },
+    "manufacturer": {
+      "value": "Entire",
+      "citation": "[cite:EPD_HUB-5991_2026-06-27_en_l39]"
+    },
+    "epdRegistrationNumber": {
+      "value": "HUB-5991",
+      "citation": "[cite:EPD_HUB-5991_2026-06-27_en_l11]"
+    },
+    "canonicalProductPage": "wiki/products/entire_concrete_n40_20_xencrete.md",
+    "rawSource": "raw/EPD_HUB-5991_2026-06-27_en.md",
+    "declaredUnit": {
+      "value": "1 cubic meter",
+      "citation": "[cite:EPD_HUB-5991_2026-06-27_en_l76]"
+    },
+    "compressiveStrength": {
+      "raw": "40MPa",
+      "citation": "[cite:EPD_HUB-5991_2026-06-27_en_l53]",
+      "valueMpa": 40.0
+    },
+    "manufacturingLocation": {
+      "raw": "Hunter Valley, NSW, Australia",
+      "searchableText": "hunter valley, nsw, australia",
+      "citation": "[cite:EPD_HUB-5991_2026-06-27_en_l47]"
+    },
+    "lifecycleScope": {
+      "value": "Cradle to gate with options, A4-A5, and modules C1-C4, D",
+      "citation": "[cite:EPD_HUB-5991_2026-06-27_en_l76-l77]"
+    },
+    "carbon": [
+      {
+        "stage": "A1-A3",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5991_2026-06-27_en_l380-l382]",
+        "valueRaw": "2.73E+02",
+        "valueNumber": 273.0,
+        "unit": "kg CO2e"
+      },
+      {
+        "stage": "A4",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5991_2026-06-27_en_l380-l382]",
+        "valueRaw": "2.96E+00",
+        "valueNumber": 2.96,
+        "unit": "kg CO2e"
+      },
+      {
+        "stage": "A5",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5991_2026-06-27_en_l380-l382]",
+        "valueRaw": "1.64E+01",
+        "valueNumber": 16.4,
+        "unit": "kg CO2e"
+      },
+      {
+        "stage": "B1",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5991_2026-06-27_en_l176-l181]"
+      },
+      {
+        "stage": "B2",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5991_2026-06-27_en_l176-l181]"
+      },
+      {
+        "stage": "B3",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5991_2026-06-27_en_l176-l181]"
+      },
+      {
+        "stage": "B4",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5991_2026-06-27_en_l176-l181]"
+      },
+      {
+        "stage": "B5",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5991_2026-06-27_en_l176-l181]"
+      },
+      {
+        "stage": "B6",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5991_2026-06-27_en_l176-l181]"
+      },
+      {
+        "stage": "B7",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5991_2026-06-27_en_l176-l181]"
+      },
+      {
+        "stage": "C1",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5991_2026-06-27_en_l380-l382]",
+        "valueRaw": "4.39E+00",
+        "valueNumber": 4.39,
+        "unit": "kg CO2e"
+      },
+      {
+        "stage": "C2",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5991_2026-06-27_en_l380-l382]",
+        "valueRaw": "1.24E+01",
+        "valueNumber": 12.4,
+        "unit": "kg CO2e"
+      },
+      {
+        "stage": "C3",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5991_2026-06-27_en_l380-l382]",
+        "valueRaw": "7.06E+00",
+        "valueNumber": 7.06,
+        "unit": "kg CO2e"
+      },
+      {
+        "stage": "C4",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5991_2026-06-27_en_l380-l382]",
+        "valueRaw": "4.32E+00",
+        "valueNumber": 4.32,
+        "unit": "kg CO2e"
+      },
+      {
+        "stage": "D",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5991_2026-06-27_en_l380-l382]",
+        "valueRaw": "-1.19E+01",
+        "valueNumber": -11.9,
+        "unit": "kg CO2e"
+      }
+    ],
+    "comparabilityFlags": []
+  },
+  {
+    "id": "entire_concrete_n50_20_xencrete",
+    "productName": {
+      "value": "N50/20 Xencrete",
+      "citation": "[cite:EPD_HUB-5943_2026-06-27_en_l15]"
+    },
+    "manufacturer": {
+      "value": "Entire Concrete",
+      "citation": "[cite:EPD_HUB-5943_2026-06-27_en_l39]"
+    },
+    "epdRegistrationNumber": {
+      "value": "HUB-5943",
+      "citation": "[cite:EPD_HUB-5943_2026-06-27_en_l11]"
+    },
+    "canonicalProductPage": "wiki/products/entire_concrete_n50_20_xencrete.md",
+    "rawSource": "raw/EPD_HUB-5943_2026-06-27_en.md",
+    "declaredUnit": {
+      "value": "1 cubic meter",
+      "citation": "[cite:EPD_HUB-5943_2026-06-27_en_l72]"
+    },
+    "compressiveStrength": {
+      "raw": "50MPa",
+      "citation": "[cite:EPD_HUB-5943_2026-06-27_en_l53]",
+      "valueMpa": 50.0
+    },
+    "manufacturingLocation": {
+      "raw": "Hunter Valley, NSW, Australia",
+      "searchableText": "hunter valley, nsw, australia",
+      "citation": "[cite:EPD_HUB-5943_2026-06-27_en_l47]"
+    },
+    "lifecycleScope": {
+      "value": "Cradle to gate with options, A4-A5, and modules C1-C4, D",
+      "citation": "[cite:EPD_HUB-5943_2026-06-27_en_l72-l73]"
+    },
+    "carbon": [
+      {
+        "stage": "A1-A3",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5943_2026-06-27_en_l388-l390]",
+        "valueRaw": "3.10E+02",
+        "valueNumber": 310.0,
+        "unit": "kg CO2e"
+      },
+      {
+        "stage": "A4",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5943_2026-06-27_en_l388-l390]",
+        "valueRaw": "2.91E+00",
+        "valueNumber": 2.91,
+        "unit": "kg CO2e"
+      },
+      {
+        "stage": "A5",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5943_2026-06-27_en_l388-l390]",
+        "valueRaw": "1.75E+01",
+        "valueNumber": 17.5,
+        "unit": "kg CO2e"
+      },
+      {
+        "stage": "B1",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5943_2026-06-27_en_l174-l181]"
+      },
+      {
+        "stage": "B2",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5943_2026-06-27_en_l176-l181]"
+      },
+      {
+        "stage": "B3",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5943_2026-06-27_en_l176-l181]"
+      },
+      {
+        "stage": "B4",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5943_2026-06-27_en_l176-l181]"
+      },
+      {
+        "stage": "B5",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5943_2026-06-27_en_l176-l181]"
+      },
+      {
+        "stage": "B6",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5943_2026-06-27_en_l176-l181]"
+      },
+      {
+        "stage": "B7",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5943_2026-06-27_en_l176-l181]"
+      },
+      {
+        "stage": "C1",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5943_2026-06-27_en_l388-l390]",
+        "valueRaw": "4.32E+00",
+        "valueNumber": 4.32,
+        "unit": "kg CO2e"
+      },
+      {
+        "stage": "C2",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5943_2026-06-27_en_l388-l390]",
+        "valueRaw": "1.22E+01",
+        "valueNumber": 12.2,
+        "unit": "kg CO2e"
+      },
+      {
+        "stage": "C3",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5943_2026-06-27_en_l388-l390]",
+        "valueRaw": "6.96E+00",
+        "valueNumber": 6.96,
+        "unit": "kg CO2e"
+      },
+      {
+        "stage": "C4",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5943_2026-06-27_en_l388-l390]",
+        "valueRaw": "4.26E+00",
+        "valueNumber": 4.26,
+        "unit": "kg CO2e"
+      },
+      {
+        "stage": "D",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:EPD_HUB-5943_2026-06-27_en_l388-l390]",
+        "valueRaw": "-1.17E+01",
+        "valueNumber": -11.7,
+        "unit": "kg CO2e"
+      }
+    ],
+    "comparabilityFlags": []
+  },
+  {
+    "id": "hallett_group_ready_mix_concrete_products",
+    "productName": {
+      "value": "READY MIX CONCRETE PRODUCTS",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l3-l5]"
+    },
+    "manufacturer": {
+      "value": "Hallett Group Pty Ltd",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l2050]"
+    },
+    "epdRegistrationNumber": {
+      "value": "EPD-IES-0009353:003",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l11]"
+    },
+    "canonicalProductPage": "wiki/products/hallett_group_ready_mix_concrete_products.md",
+    "rawSource": "raw/epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf.md",
+    "declaredUnit": {
+      "value": "1 m3 of Ready Mix concrete at the batching plant gate which is purchased by the customer and is paid for.",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l399-l407]"
+    },
+    "compressiveStrength": {
+      "raw": "Multiple product grades including 10, 15, 20, 25, 32, 40, 50, 65, and 80 MPa",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l196-l293]",
+      "valueMpa": 80.0
+    },
+    "manufacturingLocation": {
+      "raw": "Dry Creek, Elizabeth, Mile End, McLaren Vale, and Osborne batching plants around South Australia",
+      "searchableText": "dry creek, elizabeth, mile end, mclaren vale, and osborne batching plants around south australia",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l39]"
+    },
+    "lifecycleScope": {
+      "value": "cradle-to-gate with modules C1-C4 and module D",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l39]"
+    },
+    "carbon": [
+      {
+        "stage": "A1-A3",
+        "status": "Not Comparable",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l802-l821] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1210-l1297]"
+      },
+      {
+        "stage": "A4",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "A5",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B1",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B2",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B3",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B4",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B5",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B6",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B7",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C1",
+        "status": "Not Comparable",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C2",
+        "status": "Not Comparable",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C3",
+        "status": "Not Comparable",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C4",
+        "status": "Not Comparable",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "D",
+        "status": "Not Comparable",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      }
+    ],
+    "comparabilityFlags": [
+      "multiple product- and plant-specific values"
+    ]
+  },
+  {
+    "id": "holcim_australia_qe252m100",
+    "productName": {
+      "value": "QLD - Brisbane - ECOPact - QE252M100 - S25/20/100 Ecopact Concrete - General use",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_l11]"
+    },
+    "manufacturer": {
+      "value": "Holcim (Australia) Pty Ltd",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_l41]"
+    },
+    "epdRegistrationNumber": {
+      "value": "EPD-IES-0029695:001",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_l47]"
+    },
+    "canonicalProductPage": "wiki/products/holcim_australia_qe252m100.md",
+    "rawSource": "raw/epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf.md",
+    "declaredUnit": {
+      "value": "1 m3 of ready-mix concrete.",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_l131-l133]"
+    },
+    "compressiveStrength": {
+      "raw": "25 MPa",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_l408-l412]",
+      "valueMpa": 25.0
+    },
+    "manufacturingLocation": {
+      "raw": "Brisbane City, Acacia Ridge, Beaudesert, Beenleigh, Boonah, Darra, Cleveland, Geebung, Narangba, Wacol, Murarrie, Caboolture, Brendale, Raceview.",
+      "searchableText": "brisbane city, acacia ridge, beaudesert, beenleigh, boonah, darra, cleveland, geebung, narangba, wacol, murarrie, caboolture, brendale, raceview.",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_l416-l420]"
+    },
+    "lifecycleScope": {
+      "value": "The scope of this EPD is cradle to gate (modules A1-A3) with options, modules A4-A5, modules C1-C4 and module D.",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_l135-l137]"
+    },
+    "carbon": [
+      {
+        "stage": "A1-A3",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_l629-l631]",
+        "valueRaw": "146",
+        "valueNumber": 146.0,
+        "unit": "kg CO2 eq."
+      },
+      {
+        "stage": "A4",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_l629-l631]",
+        "valueRaw": "2.58",
+        "valueNumber": 2.58,
+        "unit": "kg CO2 eq."
+      },
+      {
+        "stage": "A5",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_l629-l631]",
+        "valueRaw": "12.9",
+        "valueNumber": 12.9,
+        "unit": "kg CO2 eq."
+      },
+      {
+        "stage": "B1",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_l336-l338]"
+      },
+      {
+        "stage": "B2",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_l336-l338]"
+      },
+      {
+        "stage": "B3",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_l336-l338]"
+      },
+      {
+        "stage": "B4",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_l336-l338]"
+      },
+      {
+        "stage": "B5",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_l336-l338]"
+      },
+      {
+        "stage": "B6",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_l336-l338]"
+      },
+      {
+        "stage": "B7",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_l336-l338]"
+      },
+      {
+        "stage": "C1",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_l629-l631]",
+        "valueRaw": "0.522",
+        "valueNumber": 0.522,
+        "unit": "kg CO2 eq."
+      },
+      {
+        "stage": "C2",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_l629-l631]",
+        "valueRaw": "4.31",
+        "valueNumber": 4.31,
+        "unit": "kg CO2 eq."
+      },
+      {
+        "stage": "C3",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_l629-l631]",
+        "valueRaw": "10.4",
+        "valueNumber": 10.4,
+        "unit": "kg CO2 eq."
+      },
+      {
+        "stage": "C4",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_l629-l631]",
+        "valueRaw": "0",
+        "valueNumber": 0.0,
+        "unit": "kg CO2 eq."
+      },
+      {
+        "stage": "D",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_l629-l631]",
+        "valueRaw": "-18.5",
+        "valueNumber": -18.5,
+        "unit": "kg CO2 eq."
+      }
+    ],
+    "comparabilityFlags": []
+  },
+  {
+    "id": "holcim_australia_qx25mor",
+    "productName": {
+      "value": "QLD - SEQ - GEOStone - QX25MOR - S25 MORETON GEOSTONE - Decorative",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_l11]"
+    },
+    "manufacturer": {
+      "value": "Holcim (Australia) Pty Ltd",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_l41]"
+    },
+    "epdRegistrationNumber": {
+      "value": "EPD-IES-0014327:002",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_l47]"
+    },
+    "canonicalProductPage": "wiki/products/holcim_australia_qx25mor.md",
+    "rawSource": "raw/epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf.md",
+    "declaredUnit": {
+      "value": "1 m3 of ready-mix concrete.",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_l131-l133]"
+    },
+    "compressiveStrength": {
+      "raw": "25 MPa",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_l408-l412]",
+      "valueMpa": 25.0
+    },
+    "manufacturingLocation": {
+      "raw": "Brisbane City, Acacia Ridge, Beaudesert, Beenleigh, Boonah, Cleveland, Geebung, Narangba, Wacol, Murarrie, Beerwah, Caloundra, Gympie, Caboolture, Noosa, Kawana, Southport, Tweed Heads, Burleigh Heads, Coomera, Raceview, Jacobs Well, Brendale, Darra, Nanango, Murgon, Toowoomba, Warwick",
+      "searchableText": "brisbane city, acacia ridge, beaudesert, beenleigh, boonah, cleveland, geebung, narangba, wacol, murarrie, beerwah, caloundra, gympie, caboolture, noosa, kawana, southport, tweed heads, burleigh heads, coomera, raceview, jacobs well, brendale, darra, nanango, murgon, toowoomba, warwick",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_l416-l420]"
+    },
+    "lifecycleScope": {
+      "value": "The scope of this EPD is cradle to gate (modules A1-A3) with options, modules A4-A5, modules C1-C4 and module D.",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_l135-l137]"
+    },
+    "carbon": [
+      {
+        "stage": "A1-A3",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_l629-l631]",
+        "valueRaw": "237",
+        "valueNumber": 237.0,
+        "unit": "kg CO2 eq."
+      },
+      {
+        "stage": "A4",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_l629-l631]",
+        "valueRaw": "2.63",
+        "valueNumber": 2.63,
+        "unit": "kg CO2 eq."
+      },
+      {
+        "stage": "A5",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_l629-l631]",
+        "valueRaw": "15.6",
+        "valueNumber": 15.6,
+        "unit": "kg CO2 eq."
+      },
+      {
+        "stage": "B1",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_l336-l338]"
+      },
+      {
+        "stage": "B2",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_l336-l338]"
+      },
+      {
+        "stage": "B3",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_l336-l338]"
+      },
+      {
+        "stage": "B4",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_l336-l338]"
+      },
+      {
+        "stage": "B5",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_l336-l338]"
+      },
+      {
+        "stage": "B6",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_l336-l338]"
+      },
+      {
+        "stage": "B7",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_l336-l338]"
+      },
+      {
+        "stage": "C1",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_l629-l631]",
+        "valueRaw": "0.522",
+        "valueNumber": 0.522,
+        "unit": "kg CO2 eq."
+      },
+      {
+        "stage": "C2",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_l629-l631]",
+        "valueRaw": "4.39",
+        "valueNumber": 4.39,
+        "unit": "kg CO2 eq."
+      },
+      {
+        "stage": "C3",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_l629-l631]",
+        "valueRaw": "10.5",
+        "valueNumber": 10.5,
+        "unit": "kg CO2 eq."
+      },
+      {
+        "stage": "C4",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_l629-l631]",
+        "valueRaw": "0",
+        "valueNumber": 0.0,
+        "unit": "kg CO2 eq."
+      },
+      {
+        "stage": "D",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_l629-l631]",
+        "valueRaw": "-18.8",
+        "valueNumber": -18.8,
+        "unit": "kg CO2 eq."
+      }
+    ],
+    "comparabilityFlags": []
+  },
+  {
+    "id": "piave_premix_concrete_s32mpa_greencrete_70",
+    "productName": {
+      "value": "Premix Concrete - S32MPa GreenCrete 70",
+      "citation": "[cite:epd-ies-0023043-s32mpa-greencrete-70_p3_l102]"
+    },
+    "manufacturer": {
+      "value": "Piave Premix Concrete Pty Ltd",
+      "citation": "[cite:epd-ies-0023043-s32mpa-greencrete-70_p1_l21]"
+    },
+    "epdRegistrationNumber": {
+      "value": "EPD-IES-23043",
+      "citation": "[cite:epd-ies-0023043-s32mpa-greencrete-70_p2_l62]"
+    },
+    "canonicalProductPage": "wiki/products/piave_premix_concrete_s32mpa_greencrete_70.md",
+    "rawSource": "raw/epd-ies-0023043-s32mpa-greencrete-70.md",
+    "declaredUnit": {
+      "value": "1m3 of Premix Concrete supplied to the client",
+      "citation": "[cite:epd-ies-0023043-s32mpa-greencrete-70_p8_l244-l256]"
+    },
+    "compressiveStrength": {
+      "raw": "S32MPa",
+      "citation": "[cite:epd-ies-0023043-s32mpa-greencrete-70_p3_l102-l107]",
+      "valueMpa": 32.0
+    },
+    "manufacturingLocation": {
+      "raw": "262 Salmon Street Port Melbourne VIC 3207",
+      "searchableText": "262 salmon street port melbourne vic 3207",
+      "citation": "[cite:epd-ies-0023043-s32mpa-greencrete-70_p3_l107]"
+    },
+    "lifecycleScope": {
+      "value": "Cradle to gate with modules C1-C4 and module D (A1-A3 + C + D).",
+      "citation": "[cite:epd-ies-0023043-s32mpa-greencrete-70_p4_l129-l131]"
+    },
+    "carbon": [
+      {
+        "stage": "A1-A3",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0023043-s32mpa-greencrete-70_p11_l350-l352]",
+        "valueRaw": "1.34E+02",
+        "valueNumber": 134.0,
+        "unit": "kg CO2 eq"
+      },
+      {
+        "stage": "A4",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0023043-s32mpa-greencrete-70_p8_l262-l282]"
+      },
+      {
+        "stage": "A5",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0023043-s32mpa-greencrete-70_p8_l262-l282]"
+      },
+      {
+        "stage": "B1",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0023043-s32mpa-greencrete-70_p8_l262-l282]"
+      },
+      {
+        "stage": "B2",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0023043-s32mpa-greencrete-70_p8_l262-l282]"
+      },
+      {
+        "stage": "B3",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0023043-s32mpa-greencrete-70_p8_l262-l282]"
+      },
+      {
+        "stage": "B4",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0023043-s32mpa-greencrete-70_p8_l262-l282]"
+      },
+      {
+        "stage": "B5",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0023043-s32mpa-greencrete-70_p8_l262-l282]"
+      },
+      {
+        "stage": "B6",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0023043-s32mpa-greencrete-70_p8_l262-l282]"
+      },
+      {
+        "stage": "B7",
+        "status": "Not Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0023043-s32mpa-greencrete-70_p8_l262-l282]"
+      },
+      {
+        "stage": "C1",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0023043-s32mpa-greencrete-70_p11_l350-l352]",
+        "valueRaw": "5.67E+00",
+        "valueNumber": 5.67,
+        "unit": "kg CO2 eq"
+      },
+      {
+        "stage": "C2",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0023043-s32mpa-greencrete-70_p11_l350-l352]",
+        "valueRaw": "2.16E+01",
+        "valueNumber": 21.6,
+        "unit": "kg CO2 eq"
+      },
+      {
+        "stage": "C3",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0023043-s32mpa-greencrete-70_p11_l350-l352]",
+        "valueRaw": "1.25E+01",
+        "valueNumber": 12.5,
+        "unit": "kg CO2 eq"
+      },
+      {
+        "stage": "C4",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0023043-s32mpa-greencrete-70_p11_l350-l352]",
+        "valueRaw": "2.29E+00",
+        "valueNumber": 2.29,
+        "unit": "kg CO2 eq"
+      },
+      {
+        "stage": "D",
+        "status": "Declared",
+        "indicator": "GWP-Total",
+        "citation": "[cite:epd-ies-0023043-s32mpa-greencrete-70_p11_l350-l352]",
+        "valueRaw": "-1.61E+00",
+        "valueNumber": -1.61,
+        "unit": "kg CO2 eq"
+      }
+    ],
+    "comparabilityFlags": []
+  }
+]

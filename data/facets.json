@@ -1,0 +1,202 @@
+{
+  "manufacturers": [
+    "Adbri Limited",
+    "Aurora Construction Materials Epping Pty. Ltd. (Aurora)",
+    "Boral Limited",
+    "Entire",
+    "Entire Concrete",
+    "Hallett Group Pty Ltd",
+    "Holcim (Australia) Pty Ltd",
+    "Piave Premix Concrete Pty Ltd"
+  ],
+  "compressiveStrengthClasses": [
+    {
+      "raw": "25 MPa",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_l408-l412]",
+      "valueMpa": 25.0
+    },
+    {
+      "raw": "25MPa",
+      "citation": "[cite:epd-ies-0021754-001-acm-rockbank-ar2520_l190-l192]",
+      "valueMpa": 25.0
+    },
+    {
+      "raw": "S32MPa",
+      "citation": "[cite:epd-ies-0023043-s32mpa-greencrete-70_p3_l102-l107]",
+      "valueMpa": 32.0
+    },
+    {
+      "raw": "40MPa",
+      "citation": "[cite:EPD_HUB-5991_2026-06-27_en_l53]",
+      "valueMpa": 40.0
+    },
+    {
+      "raw": "S40",
+      "citation": "[cite:EPD_HUB-5882_2026-06-27_en_l103]",
+      "valueMpa": 40.0
+    },
+    {
+      "raw": "50MPa",
+      "citation": "[cite:EPD_HUB-5943_2026-06-27_en_l53]",
+      "valueMpa": 50.0
+    },
+    {
+      "raw": "Multiple product grades including 10, 15, 20, 25, 32, 40, 50, 65, and 80 MPa",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l196-l293]",
+      "valueMpa": 80.0
+    },
+    {
+      "raw": "Not readable as a discrete SN252F100 field in the raw extraction; product grouping variables include Strength (MPa): 20, 25, 32, 40, 50",
+      "citation": "[cite:epd-ies-0021165-sn252f100_l695-l699]"
+    }
+  ],
+  "manufacturingLocations": [
+    {
+      "raw": "262 Salmon Street Port Melbourne VIC 3207",
+      "searchableText": "262 salmon street port melbourne vic 3207",
+      "citation": "[cite:epd-ies-0023043-s32mpa-greencrete-70_p3_l107]"
+    },
+    {
+      "raw": "Brisbane City, Acacia Ridge, Beaudesert, Beenleigh, Boonah, Cleveland, Geebung, Narangba, Wacol, Murarrie, Beerwah, Caloundra, Gympie, Caboolture, Noosa, Kawana, Southport, Tweed Heads, Burleigh Heads, Coomera, Raceview, Jacobs Well, Brendale, Darra, Nanango, Murgon, Toowoomba, Warwick",
+      "searchableText": "brisbane city, acacia ridge, beaudesert, beenleigh, boonah, cleveland, geebung, narangba, wacol, murarrie, beerwah, caloundra, gympie, caboolture, noosa, kawana, southport, tweed heads, burleigh heads, coomera, raceview, jacobs well, brendale, darra, nanango, murgon, toowoomba, warwick",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_l416-l420]"
+    },
+    {
+      "raw": "Brisbane City, Acacia Ridge, Beaudesert, Beenleigh, Boonah, Darra, Cleveland, Geebung, Narangba, Wacol, Murarrie, Caboolture, Brendale, Raceview.",
+      "searchableText": "brisbane city, acacia ridge, beaudesert, beenleigh, boonah, darra, cleveland, geebung, narangba, wacol, murarrie, caboolture, brendale, raceview.",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_l416-l420]"
+    },
+    {
+      "raw": "Dry Creek, Elizabeth, Mile End, McLaren Vale, and Osborne batching plants around South Australia",
+      "searchableText": "dry creek, elizabeth, mile end, mclaren vale, and osborne batching plants around south australia",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l39]"
+    },
+    {
+      "raw": "Hunter Valley, NSW, Australia",
+      "searchableText": "hunter valley, nsw, australia",
+      "citation": "[cite:EPD_HUB-5991_2026-06-27_en_l47]"
+    },
+    {
+      "raw": "Melbourne",
+      "searchableText": "melbourne",
+      "citation": "[cite:EPD_HUB-5882_2026-06-27_en_l71-l73]"
+    },
+    {
+      "raw": "Rockbank, Melbourne, Victoria",
+      "searchableText": "rockbank, melbourne, victoria",
+      "citation": "[cite:epd-ies-0021754-001-acm-rockbank-ar2520_l188]"
+    },
+    {
+      "raw": "South Australia; Burton, Dry Creek, Gawler, Gillman, Littlehampton, Lonsdale, Murray Bridge, Sellicks, Victor Harbor, Welland",
+      "searchableText": "south australia; burton, dry creek, gawler, gillman, littlehampton, lonsdale, murray bridge, sellicks, victor harbor, welland",
+      "citation": "[cite:epd-ies-0021165-sn252f100_l262-l270]"
+    }
+  ],
+  "lifecycleStages": [
+    {
+      "stage": "A1-A3",
+      "declaredCount": 7,
+      "notDeclaredCount": 0,
+      "notAvailableCount": 0,
+      "notComparableCount": 2
+    },
+    {
+      "stage": "A4",
+      "declaredCount": 4,
+      "notDeclaredCount": 4,
+      "notAvailableCount": 0,
+      "notComparableCount": 1
+    },
+    {
+      "stage": "A5",
+      "declaredCount": 4,
+      "notDeclaredCount": 4,
+      "notAvailableCount": 0,
+      "notComparableCount": 1
+    },
+    {
+      "stage": "B1",
+      "declaredCount": 0,
+      "notDeclaredCount": 8,
+      "notAvailableCount": 0,
+      "notComparableCount": 1
+    },
+    {
+      "stage": "B2",
+      "declaredCount": 0,
+      "notDeclaredCount": 8,
+      "notAvailableCount": 0,
+      "notComparableCount": 1
+    },
+    {
+      "stage": "B3",
+      "declaredCount": 0,
+      "notDeclaredCount": 8,
+      "notAvailableCount": 0,
+      "notComparableCount": 1
+    },
+    {
+      "stage": "B4",
+      "declaredCount": 0,
+      "notDeclaredCount": 8,
+      "notAvailableCount": 0,
+      "notComparableCount": 1
+    },
+    {
+      "stage": "B5",
+      "declaredCount": 0,
+      "notDeclaredCount": 8,
+      "notAvailableCount": 0,
+      "notComparableCount": 1
+    },
+    {
+      "stage": "B6",
+      "declaredCount": 0,
+      "notDeclaredCount": 8,
+      "notAvailableCount": 0,
+      "notComparableCount": 1
+    },
+    {
+      "stage": "B7",
+      "declaredCount": 0,
+      "notDeclaredCount": 8,
+      "notAvailableCount": 0,
+      "notComparableCount": 1
+    },
+    {
+      "stage": "C1",
+      "declaredCount": 7,
+      "notDeclaredCount": 0,
+      "notAvailableCount": 0,
+      "notComparableCount": 2
+    },
+    {
+      "stage": "C2",
+      "declaredCount": 7,
+      "notDeclaredCount": 0,
+      "notAvailableCount": 0,
+      "notComparableCount": 2
+    },
+    {
+      "stage": "C3",
+      "declaredCount": 7,
+      "notDeclaredCount": 0,
+      "notAvailableCount": 0,
+      "notComparableCount": 2
+    },
+    {
+      "stage": "C4",
+      "declaredCount": 7,
+      "notDeclaredCount": 0,
+      "notAvailableCount": 0,
+      "notComparableCount": 2
+    },
+    {
+      "stage": "D",
+      "declaredCount": 7,
+      "notDeclaredCount": 0,
+      "notAvailableCount": 0,
+      "notComparableCount": 2
+    }
+  ]
+}
