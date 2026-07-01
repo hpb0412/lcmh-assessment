@@ -1,5 +1,7 @@
 # Audit Log
 
+- 2026-07-01: Ingested raw/EPD_HUB-5749_2026-06-27_en.json. Added Entire Concrete N25/10/100 Xencrete canonical evidence, product/source registry rows, and manufacturer, Hunter Valley facility, 25 MPa strength, standards, lifecycle, and A1-A3 GWP comparison relationships.
+
 - 2026-07-01: Ingested raw/EPD_HUB-5882_2026-06-27_en.json. Added Boral 40 MPa High Performance Concrete Melbourne canonical evidence, product/source registry rows, and manufacturer, Melbourne facility, S40 strength, standards, lifecycle, and A1-A3 GWP comparison relationships.
 
 - 2026-07-01: Ingested raw/epd-ies-0021165-sn252f100.json. Added Adbri Concrete SN252F100 metadata, South Australia production sites, declared unit, lifecycle scope, A1-A3/A4 evidence, lifecycle relationship rows, standards rows, strength-class rows, comparison rows, and source register entry.

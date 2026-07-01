@@ -14,3 +14,6 @@
 | Product | Product | QLD - SEQ - GEOStone - QX25MOR - S25 MORETON GEOSTONE - Decorative | N/A | [Holcim QX25MOR](../products/holcim_australia_qx25mor.md) | [cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_p10_t2] |
 | Strength (MPa) | Strength (MPa) | 25 | N/A | [Holcim QX25MOR](../products/holcim_australia_qx25mor.md) | [cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_p10_t20] |
 | Mix code | Mix code | QX25MOR | N/A | [Holcim QX25MOR](../products/holcim_australia_qx25mor.md) | [cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_p10_t21] |
+| Product | Product | N25/10/100 Xencrete | N/A | [Entire Concrete N25/10/100 Xencrete](../products/entire_concrete_n25_10_100_xencrete.md) | [cite:EPD_HUB-5749_2026-06-27_en_p1_t4] |
+| Strength (MPa) | Strength (MPa) | characteristic strength of 25MPa | MPa | [Entire Concrete N25/10/100 Xencrete](../products/entire_concrete_n25_10_100_xencrete.md) | [cite:EPD_HUB-5749_2026-06-27_en_p2_t13] |
+| Mix code | Mix code | N25/10/100 Xencrete | N/A | [Entire Concrete N25/10/100 Xencrete](../products/entire_concrete_n25_10_100_xencrete.md) | [cite:EPD_HUB-5749_2026-06-27_en_p1_t4] |
