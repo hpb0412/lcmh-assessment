@@ -2,6 +2,10 @@
 
 | Entity | Concept | Value | Unit / Status | Source Product | Cite |
 | --- | --- | --- | --- | --- | --- |
+| Holcim QX25MOR | Holcim QX25MOR | International EPD System \| www.environdec.com | N/A | [Holcim QX25MOR](../products/holcim_australia_qx25mor.md) | [cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_p1_t8] |
+| Holcim QX25MOR | Holcim QX25MOR | EPD Australasia \| www.epd-australasia.com | N/A | [Holcim QX25MOR](../products/holcim_australia_qx25mor.md) | [cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_p1_t12] |
+| Holcim QX25MOR | Holcim QX25MOR | PCR 2019:14 Construction Products, Version 2.0.1, 2025-06-05 | N/A | [Holcim QX25MOR](../products/holcim_australia_qx25mor.md) | [cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_p2_t57] |
+| Holcim QX25MOR | Holcim QX25MOR | c-PCR-003 Concrete and Concrete Elements, 2025-04-08 | N/A | [Holcim QX25MOR](../products/holcim_australia_qx25mor.md) | [cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_p2_t58] |
 | Holcim QE252M100 | Holcim QE252M100 | International EPD System \| www.environdec.com | N/A | [Holcim QE252M100](../products/holcim_australia_qe252m100.md) | [cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_p1_t8] |
 | Holcim QE252M100 | Holcim QE252M100 | EPD Australasia \| www.epd-australasia.com | N/A | [Holcim QE252M100](../products/holcim_australia_qe252m100.md) | [cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_p1_t12] |
 | Holcim QE252M100 | Holcim QE252M100 | PCR 2019:14 Construction Products, Version 2.0.1, 2025-06-05 | N/A | [Holcim QE252M100](../products/holcim_australia_qe252m100.md) | [cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_p2_t56] |

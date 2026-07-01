@@ -2,6 +2,11 @@
 
 | Entity | Concept | Value | Unit / Status | Source Product | Cite |
 | --- | --- | --- | --- | --- | --- |
+| Holcim QX25MOR | Product | QLD - SEQ - GEOStone - QX25MOR - S25 MORETON GEOSTONE - Decorative | N/A | [Holcim QX25MOR](../products/holcim_australia_qx25mor.md) | [cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_p10_t2] |
+| Holcim QX25MOR | Manufacturer | Holcim (Australia) Pty Ltd | N/A | [Holcim QX25MOR](../products/holcim_australia_qx25mor.md) | [cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_p2_t3] |
+| Holcim QX25MOR | Strength | 25 MPa | MPa | [Holcim QX25MOR](../products/holcim_australia_qx25mor.md) | [cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_p10_t20] |
+| Holcim QX25MOR | Declared unit | 1 m3 of ready-mix concrete. | declared unit | [Holcim QX25MOR](../products/holcim_australia_qx25mor.md) | [cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_p6_t4] |
+| Holcim QX25MOR | A1-A3 GWP | 237 kg CO2 eq. | kg CO2 eq. | [Holcim QX25MOR](../products/holcim_australia_qx25mor.md) | [cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_p16_t17] |
 | Holcim QE252M100 | Product | QLD - Brisbane - ECOPact - QE252M100 - S25/20/100 Ecopact Concrete - General use | N/A | [Holcim QE252M100](../products/holcim_australia_qe252m100.md) | [cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_p10_t1] |
 | Holcim QE252M100 | Manufacturer | Holcim (Australia) Pty Ltd | N/A | [Holcim QE252M100](../products/holcim_australia_qe252m100.md) | [cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_p2_t2] |
 | Holcim QE252M100 | Strength | 25 MPa | MPa | [Holcim QE252M100](../products/holcim_australia_qe252m100.md) | [cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_p10_t19] |

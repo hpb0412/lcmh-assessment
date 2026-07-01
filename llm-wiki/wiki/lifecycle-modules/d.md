@@ -2,6 +2,8 @@
 
 | Entity | Concept | Value | Unit / Status | Source Product | Cite |
 | --- | --- | --- | --- | --- | --- |
+| Holcim QX25MOR | Recycling/Reuse/Recovery potential | -18.8 kg CO2 eq. | kg CO2 eq. | [Holcim QX25MOR](../products/holcim_australia_qx25mor.md) | [cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_p16_t24] |
+| Holcim QX25MOR | National Waste Report recycling and recovery rate | 80% | % | [Holcim QX25MOR](../products/holcim_australia_qx25mor.md) | [cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_p12_t67] [cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_p12_t68] |
 | Holcim QE252M100 | Recycling/Reuse/Recovery potential | -18.5 kg CO2 eq. | kg CO2 eq. | [Holcim QE252M100](../products/holcim_australia_qe252m100.md) | [cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_p16_t23] |
 | Holcim QE252M100 | National Waste Report recycling and recovery rate | 80% | % | [Holcim QE252M100](../products/holcim_australia_qe252m100.md) | [cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_p12_t67] |
 | Entire Concrete N40/20 Xencrete | Recycling/Reuse/Recovery potential | -1.19E+01 kg CO2e | kg CO2e | [Entire Concrete N40/20 Xencrete](../products/entire_concrete_n40_20_xencrete.md) | [cite:EPD_HUB-5991_2026-06-27_en_p8_t26] [cite:EPD_HUB-5991_2026-06-27_en_p8_t27] [cite:EPD_HUB-5991_2026-06-27_en_p8_t45] |
