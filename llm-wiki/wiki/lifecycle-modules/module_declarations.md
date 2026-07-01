@@ -2,6 +2,11 @@
 
 | Entity | Concept | Value | Unit / Status | Source Product | Cite |
 | --- | --- | --- | --- | --- | --- |
+| S32MPa GreenCrete 70 | A1-A3 | Product stage modules A1, A2, A3 | Declared | [Piave S32MPa GreenCrete 70](../products/piave_premix_concrete_s32mpa_greencrete_70.md) | [cite:epd-ies-0023043-s32mpa-greencrete-70_p8_l262-l282] |
+| S32MPa GreenCrete 70 | A4-A5 | A4, A5 | Not Declared | [Piave S32MPa GreenCrete 70](../products/piave_premix_concrete_s32mpa_greencrete_70.md) | [cite:epd-ies-0023043-s32mpa-greencrete-70_p8_l262-l282] |
+| S32MPa GreenCrete 70 | B1-B7 | B1, B2, B3, B4, B5, B6, B7 | Not Declared | [Piave S32MPa GreenCrete 70](../products/piave_premix_concrete_s32mpa_greencrete_70.md) | [cite:epd-ies-0023043-s32mpa-greencrete-70_p8_l262-l282] |
+| S32MPa GreenCrete 70 | C1-C4 | End of life stage modules C1, C2, C3, C4 | Declared | [Piave S32MPa GreenCrete 70](../products/piave_premix_concrete_s32mpa_greencrete_70.md) | [cite:epd-ies-0023043-s32mpa-greencrete-70_p8_l262-l282] |
+| S32MPa GreenCrete 70 | D | Beyond the system boundaries | Declared | [Piave S32MPa GreenCrete 70](../products/piave_premix_concrete_s32mpa_greencrete_70.md) | [cite:epd-ies-0023043-s32mpa-greencrete-70_p8_l262-l282] |
 | QE252M100 | A1-A3 | Raw Material Supply, Transport, Manufacturing | Declared | [Holcim Australia QE252M100](../products/holcim_australia_qe252m100.md) | [cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_l350-l353] |
 | QE252M100 | A4-A5 | Transport, Construction/installation process | Declared | [Holcim Australia QE252M100](../products/holcim_australia_qe252m100.md) | [cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_l350-l353] |
 | QE252M100 | B1-B7 | Material emissions from usage (B1); Maintenance (B2); Repair (B3); Replacement (B4); Refurbishment (B5); Operational energy use (B6), and Operational water use (B7). | Not Declared | [Holcim Australia QE252M100](../products/holcim_australia_qe252m100.md) | [cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_l336-l338] |
