@@ -10,3 +10,4 @@
 - 2026-06-30: Ingested raw/EPD_HUB-5943_2026-06-27_en.json. Added Entire Concrete N50/20 Xencrete metadata, material traits, declared unit, A1-A3, A4-A5, C1-C4, and D metrics, plus relationship pages.
 - 2026-07-01: Refactored wiki navigation. Moved the master product registry to wiki/products/index.md, converted wiki/index.md into the top-level knowledge base hub, added folder-level indexes, and added the raw source document register.
 - 2026-07-01: Added agent retrieval guidance, extensible topic-folder rules, product field inventories, and document type coverage in the raw source register.
+- 2026-07-01: Implemented layered wiki retrieval refactor. Added product snapshots, compacted the product registry, marked the Holcim GEOStone raw JSON as pending ingestion, updated relationship tables to concept-oriented columns, and clarified canonical evidence page rules in AGENTS.md.

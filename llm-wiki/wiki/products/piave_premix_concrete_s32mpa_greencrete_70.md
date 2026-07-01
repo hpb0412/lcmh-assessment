@@ -5,6 +5,18 @@ processing_engine: "LiteParse"
 
 # Piave Premix Concrete Pty Ltd - Premix Concrete - S32MPa GreenCrete 70
 
+## Product Snapshot
+| Field | Value | Cite |
+| --- | --- | --- |
+| Product Name | Premix Concrete - S32MPa GreenCrete 70 | [cite:epd-ies-0023043-s32mpa-greencrete-70_p3_t1] [cite:epd-ies-0023043-s32mpa-greencrete-70_p3_t2] |
+| Manufacturer | Piave Premix Concrete Pty Ltd | [cite:epd-ies-0023043-s32mpa-greencrete-70_p1_t9] |
+| EPD Registration Number | EPD-IES-23043 | [cite:epd-ies-0023043-s32mpa-greencrete-70_p1_t13] |
+| Compressive Strength | S32MPa | [cite:epd-ies-0023043-s32mpa-greencrete-70_p1_t8] [cite:epd-ies-0023043-s32mpa-greencrete-70_p3_t5] |
+| Declared Unit | 1m3 of Premix Concrete supplied to the client | [cite:epd-ies-0023043-s32mpa-greencrete-70_p8_t5] [cite:epd-ies-0023043-s32mpa-greencrete-70_p8_t6] [cite:epd-ies-0023043-s32mpa-greencrete-70_p8_t7] |
+| Facility / Region | 262 Salmon Street Port Melbourne VIC 3207 | [cite:epd-ies-0023043-s32mpa-greencrete-70_p3_t7] [cite:epd-ies-0023043-s32mpa-greencrete-70_p3_t8] |
+| A1-A3 GWP | 1.34E+02 kg CO2 eq | [cite:epd-ies-0023043-s32mpa-greencrete-70_p11_t18] [cite:epd-ies-0023043-s32mpa-greencrete-70_p11_t19] [cite:epd-ies-0023043-s32mpa-greencrete-70_p11_t20] |
+| Lifecycle Scope | Cradle to gate with modules C1-C4 and module D (A1-A3 + C + D) | [cite:epd-ies-0023043-s32mpa-greencrete-70_p4_t13] [cite:epd-ies-0023043-s32mpa-greencrete-70_p4_t14] |
+
 ## Field Inventory
 | Field Group | Representative Fields | Section |
 | --- | --- | --- |

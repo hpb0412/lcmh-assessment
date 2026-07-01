@@ -5,6 +5,18 @@ processing_engine: "LiteParse"
 
 # Entire Concrete - N50/20 Xencrete
 
+## Product Snapshot
+| Field | Value | Cite |
+| --- | --- | --- |
+| Product Name | N50/20 Xencrete | [cite:EPD_HUB-5943_2026-06-27_en_p2_t90] [cite:EPD_HUB-5943_2026-06-27_en_p2_t91] |
+| Manufacturer | Entire Concrete | [cite:EPD_HUB-5943_2026-06-27_en_p1_t6] |
+| EPD Registration Number | EPD HUB, HUB-5943 | [cite:EPD_HUB-5943_2026-06-27_en_p1_t3] |
+| Compressive Strength | characteristic strength of 50MPa | [cite:EPD_HUB-5943_2026-06-27_en_p2_t14] |
+| Declared Unit | 1 cubic meter | [cite:EPD_HUB-5943_2026-06-27_en_p2_t61] [cite:EPD_HUB-5943_2026-06-27_en_p2_t62] |
+| Facility / Region | Hunter Valley, NSW, Australia | [cite:EPD_HUB-5943_2026-06-27_en_p2_t19] [cite:EPD_HUB-5943_2026-06-27_en_p2_t20] |
+| A1-A3 GWP | 3.10E+02 kg CO2e | [cite:EPD_HUB-5943_2026-06-27_en_p8_t26] [cite:EPD_HUB-5943_2026-06-27_en_p8_t27] [cite:EPD_HUB-5943_2026-06-27_en_p8_t31] |
+| Lifecycle Scope | Cradle to gate with options, A4-A5, and modules C1-C4, D | [cite:EPD_HUB-5943_2026-06-27_en_p2_t58] [cite:EPD_HUB-5943_2026-06-27_en_p2_t59] [cite:EPD_HUB-5943_2026-06-27_en_p2_t62] |
+
 ## Field Inventory
 | Field Group | Representative Fields | Section |
 | --- | --- | --- |

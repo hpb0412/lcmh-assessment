@@ -5,6 +5,18 @@ processing_engine: "LiteParse"
 
 # Holcim - QLD - Brisbane - ECOPact - QE252M100 - S25/20/100 Ecopact Concrete - General use
 
+## Product Snapshot
+| Field | Value | Cite |
+| --- | --- | --- |
+| Product Name | QLD - Brisbane - ECOPact - QE252M100 - S25/20/100 Ecopact Concrete - General use | [cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_p10_t1] |
+| Manufacturer | Holcim (Australia) Pty Ltd | [cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_p2_t2] |
+| EPD Registration Number | EPD-IES-0029695:001 | [cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_p2_t41] |
+| Compressive Strength | 25 MPa | [cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_p10_t19] |
+| Declared Unit | 1 m3 of ready-mix concrete. | [cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_p6_t3] |
+| Facility / Region | QLD - Brisbane | [cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_p10_t1] |
+| A1-A3 GWP | 146 kg CO2 eq. | [cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_p16_t16] |
+| Lifecycle Scope | cradle to gate (modules A1-A3) with options, modules A4-A5, modules C1-C4 and module D | [cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_p6_t8] [cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_p6_t10] [cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_p6_t12] |
+
 ## Field Inventory
 | Field Group | Representative Fields | Section |
 | --- | --- | --- |
