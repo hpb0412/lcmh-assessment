@@ -2,6 +2,9 @@
 
 | Entity | Concept | Value | Unit / Status | Source Product | Cite |
 | --- | --- | --- | --- | --- | --- |
+| Product | Product | Adbri Concrete EPD-SN252F100 South Australia | N/A | [Adbri Concrete SN252F100](../products/adbri_concrete_sn252f100.md) | [cite:epd-ies-0021165-sn252f100_p1_t3] [cite:epd-ies-0021165-sn252f100_p1_t4] [cite:epd-ies-0021165-sn252f100_p1_t5] |
+| Strength (MPa) | Strength (MPa) | 25 MPa | MPa | [Adbri Concrete SN252F100](../products/adbri_concrete_sn252f100.md) | [cite:epd-ies-0021165-sn252f100_p27_t6] [cite:epd-ies-0021165-sn252f100_p32_t111] |
+| Mix code | Mix code | EPD-SN252F100 | N/A | [Adbri Concrete SN252F100](../products/adbri_concrete_sn252f100.md) | [cite:epd-ies-0021165-sn252f100_p1_t4] |
 | Product | Product | AR2520 pre-mixed concrete | N/A | [Aurora AR2520](../products/aurora_construction_materials_epping_ar2520.md) | [cite:epd-ies-0021754-001-acm-rockbank-ar2520_p1_t5] |
 | Strength (MPa) | Strength (MPa) | 25MPa | MPa | [Aurora AR2520](../products/aurora_construction_materials_epping_ar2520.md) | [cite:epd-ies-0021754-001-acm-rockbank-ar2520_p5_t20] |
 | Mix code | Mix code | AR2520 | N/A | [Aurora AR2520](../products/aurora_construction_materials_epping_ar2520.md) | [cite:epd-ies-0021754-001-acm-rockbank-ar2520_p5_t19] |

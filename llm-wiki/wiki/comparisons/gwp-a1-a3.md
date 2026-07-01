@@ -2,6 +2,11 @@
 
 | Entity | Concept | Value | Unit / Status | Source Product | Cite |
 | --- | --- | --- | --- | --- | --- |
+| Adbri Concrete SN252F100 | Product | Adbri Concrete EPD-SN252F100 South Australia | N/A | [Adbri Concrete SN252F100](../products/adbri_concrete_sn252f100.md) | [cite:epd-ies-0021165-sn252f100_p1_t3] [cite:epd-ies-0021165-sn252f100_p1_t4] [cite:epd-ies-0021165-sn252f100_p1_t5] |
+| Adbri Concrete SN252F100 | Manufacturer | Adbri Limited | N/A | [Adbri Concrete SN252F100](../products/adbri_concrete_sn252f100.md) | [cite:epd-ies-0021165-sn252f100_p11_t3] |
+| Adbri Concrete SN252F100 | Strength | 25 MPa | MPa | [Adbri Concrete SN252F100](../products/adbri_concrete_sn252f100.md) | [cite:epd-ies-0021165-sn252f100_p27_t6] [cite:epd-ies-0021165-sn252f100_p32_t111] |
+| Adbri Concrete SN252F100 | Declared unit | one cubic metre (1m3) of manufactured concrete | declared unit | [Adbri Concrete SN252F100](../products/adbri_concrete_sn252f100.md) | [cite:epd-ies-0021165-sn252f100_p17_t9] [cite:epd-ies-0021165-sn252f100_p17_t11] |
+| Adbri Concrete SN252F100 | A1-A3 GWP | 2.03E+02 kg CO2 eq. | kg CO2 eq. | [Adbri Concrete SN252F100](../products/adbri_concrete_sn252f100.md) | [cite:epd-ies-0021165-sn252f100_p32_t18] |
 | Aurora AR2520 | Product | AR2520 pre-mixed concrete | N/A | [Aurora AR2520](../products/aurora_construction_materials_epping_ar2520.md) | [cite:epd-ies-0021754-001-acm-rockbank-ar2520_p1_t5] |
 | Aurora AR2520 | Manufacturer | Aurora Construction Materials Epping Pty. Ltd. (Aurora) | N/A | [Aurora AR2520](../products/aurora_construction_materials_epping_ar2520.md) | [cite:epd-ies-0021754-001-acm-rockbank-ar2520_p4_t3] |
 | Aurora AR2520 | Strength | 25MPa | MPa | [Aurora AR2520](../products/aurora_construction_materials_epping_ar2520.md) | [cite:epd-ies-0021754-001-acm-rockbank-ar2520_p5_t20] |

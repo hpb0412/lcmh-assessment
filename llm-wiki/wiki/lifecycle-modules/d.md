@@ -2,6 +2,9 @@
 
 | Entity | Concept | Value | Unit / Status | Source Product | Cite |
 | --- | --- | --- | --- | --- | --- |
+| Adbri Concrete SN252F100 | Recycling/Reuse/Recovery potential | Declared | Declared | [Adbri Concrete SN252F100](../products/adbri_concrete_sn252f100.md) | [cite:epd-ies-0021165-sn252f100_p18_t61] [cite:epd-ies-0021165-sn252f100_p18_t80] |
+| Adbri Concrete SN252F100 | D benefit assumption | The benefit in this case is the avoided production of gravel from natural source. | N/A | [Adbri Concrete SN252F100](../products/adbri_concrete_sn252f100.md) | [cite:epd-ies-0021165-sn252f100_p21_t61] [cite:epd-ies-0021165-sn252f100_p21_t62] |
+| Adbri Concrete SN252F100 | Recycling process | The recycling process is modelled as using the rock crusher to produce recycled aggregate. | N/A | [Adbri Concrete SN252F100](../products/adbri_concrete_sn252f100.md) | [cite:epd-ies-0021165-sn252f100_p21_t62] [cite:epd-ies-0021165-sn252f100_p21_t63] |
 | Aurora AR2520 | Recycling/Reuse/Recovery potential | -9.79E+00 kg CO2-eq. | kg CO2-eq. | [Aurora AR2520](../products/aurora_construction_materials_epping_ar2520.md) | [cite:epd-ies-0021754-001-acm-rockbank-ar2520_p18_t13] [cite:epd-ies-0021754-001-acm-rockbank-ar2520_p18_t14] [cite:epd-ies-0021754-001-acm-rockbank-ar2520_p18_t20] |
 | Aurora AR2520 | Recovery process recycling | 1 908 kg for recycling | kg | [Aurora AR2520](../products/aurora_construction_materials_epping_ar2520.md) | [cite:epd-ies-0021754-001-acm-rockbank-ar2520_p10_t45] [cite:epd-ies-0021754-001-acm-rockbank-ar2520_p10_t46] [cite:epd-ies-0021754-001-acm-rockbank-ar2520_p10_t47] |
 | Holcim QX25MOR | Recycling/Reuse/Recovery potential | -18.8 kg CO2 eq. | kg CO2 eq. | [Holcim QX25MOR](../products/holcim_australia_qx25mor.md) | [cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_p16_t24] |

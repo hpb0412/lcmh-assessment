@@ -7,3 +7,4 @@
 | [Port Melbourne VIC](port_melbourne_vic.md) | Facility and regional production records. |
 | [Rockbank VIC](rockbank_vic.md) | Facility and regional production records. |
 | [SEQ QLD Facilities](seq_qld.md) | Facility and regional production records. |
+| [South Australia Facilities](south_australia.md) | Facility and regional production records. |
