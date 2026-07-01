@@ -6,3 +6,4 @@
 | N50/20 Xencrete | Mix design | N50/20 Xencrete | N/A | [Entire Concrete N50/20 Xencrete](../products/entire_concrete_n50_20_xencrete.md) | [cite:EPD_HUB-5943_2026-06-27_en_l15] |
 | N50/20 Xencrete | Application | General use concrete | N/A | [Entire Concrete N50/20 Xencrete](../products/entire_concrete_n50_20_xencrete.md) | [cite:EPD_HUB-5943_2026-06-27_en_l53] |
 | Hallett Ready Mix Concrete Products | Compressive strength class | 50 | MPa | [Hallett Ready Mix Concrete Products](../products/hallett_group_ready_mix_concrete_products.md) | [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l239-l255] |
+| Adbri SN252F100 | Strength grouping includes | 50 | MPa | [Adbri SN252F100](../products/adbri_limited_sn252f100.md) | [cite:epd-ies-0021165-sn252f100_l695-l699] |
