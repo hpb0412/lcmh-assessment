@@ -1,5 +1,6 @@
 # Audit Log
 
+- 2026-07-01: Ingested raw/EPD_HUB-5991_2026-06-27_en.md. Added Entire Concrete N40/20 Xencrete canonical evidence page, product/source registry rows, manufacturer, Hunter Valley facility, standards, lifecycle module, 40 MPa strength class, and A1-A3 GWP comparison relationship pages with line-only raw Markdown citations.
 - 2026-07-01: Ingested raw/epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf.md. Added Holcim Australia QE252M100 canonical evidence page, product/source registry rows, manufacturer, QLD Brisbane facility, standards, lifecycle module, 25 MPa strength class, and A1-A3 GWP comparison relationship pages with line-only raw Markdown citations.
 - 2026-07-01: Ingested raw/epd-ies-0021165-sn252f100.json. Added Adbri Concrete SN252F100 metadata, South Australia production sites, declared unit, lifecycle scope, A1-A3/A4 evidence, lifecycle relationship rows, standards rows, strength-class rows, comparison rows, and source register entry.
 - 2026-07-01: Ingested raw/epd-ies-0021754-001-acm-rockbank-ar2520.json. Added Aurora AR2520 metadata, material traits, declared unit, A1-A3, A4-A5, C1-C4, D metrics, Rockbank facility page, and relationship index rows.
