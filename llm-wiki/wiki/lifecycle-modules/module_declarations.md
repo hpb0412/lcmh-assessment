@@ -2,6 +2,11 @@
 
 | Entity | Concept | Value | Unit / Status | Source Product | Cite |
 | --- | --- | --- | --- | --- | --- |
+| AR2520 | A1-A3 | Product stage modules A1, A2, A3 | Declared | [Aurora AR2520](../products/aurora_construction_materials_ar2520.md) | [cite:epd-ies-0021754-001-acm-rockbank-ar2520_l257-l263] |
+| AR2520 | A4-A5 | A4, A5 | Not Declared | [Aurora AR2520](../products/aurora_construction_materials_ar2520.md) | [cite:epd-ies-0021754-001-acm-rockbank-ar2520_l257-l275] |
+| AR2520 | B1-B7 | B1, B2, B3, B4, B5, B6, B7 | Not Declared | [Aurora AR2520](../products/aurora_construction_materials_ar2520.md) | [cite:epd-ies-0021754-001-acm-rockbank-ar2520_l257-l275] |
+| AR2520 | C1-C4 | End-of-life stage modules C1, C2, C3, C4 | Declared | [Aurora AR2520](../products/aurora_construction_materials_ar2520.md) | [cite:epd-ies-0021754-001-acm-rockbank-ar2520_l257-l263] |
+| AR2520 | D | Benefits beyond system boundary | Declared | [Aurora AR2520](../products/aurora_construction_materials_ar2520.md) | [cite:epd-ies-0021754-001-acm-rockbank-ar2520_l257-l263] |
 | S32MPa GreenCrete 70 | A1-A3 | Product stage modules A1, A2, A3 | Declared | [Piave S32MPa GreenCrete 70](../products/piave_premix_concrete_s32mpa_greencrete_70.md) | [cite:epd-ies-0023043-s32mpa-greencrete-70_p8_l262-l282] |
 | S32MPa GreenCrete 70 | A4-A5 | A4, A5 | Not Declared | [Piave S32MPa GreenCrete 70](../products/piave_premix_concrete_s32mpa_greencrete_70.md) | [cite:epd-ies-0023043-s32mpa-greencrete-70_p8_l262-l282] |
 | S32MPa GreenCrete 70 | B1-B7 | B1, B2, B3, B4, B5, B6, B7 | Not Declared | [Piave S32MPa GreenCrete 70](../products/piave_premix_concrete_s32mpa_greencrete_70.md) | [cite:epd-ies-0023043-s32mpa-greencrete-70_p8_l262-l282] |

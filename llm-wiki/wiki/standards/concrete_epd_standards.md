@@ -2,6 +2,11 @@
 
 | Entity | Concept | Value | Unit / Status | Source Product | Cite |
 | --- | --- | --- | --- | --- | --- |
+| ISO 14025 | Declaration standard | In accordance with ISO 14025:2006 and EN 15804:2012+A2:2019/AC:2021 | Declared | [Aurora AR2520](../products/aurora_construction_materials_ar2520.md) | [cite:epd-ies-0021754-001-acm-rockbank-ar2520_l9] |
+| EN 15804 | Core PCR standard | CEN standard EN 15804 served as the core Product Category Rules (PCR) | Declared | [Aurora AR2520](../products/aurora_construction_materials_ar2520.md) | [cite:epd-ies-0021754-001-acm-rockbank-ar2520_l99] |
+| PCR 2019:14 | Product category rules | PCR 2019:14 Construction Products, Version 2.0.1, 2025-06-05 (valid until 2030-04-07) | Declared | [Aurora AR2520](../products/aurora_construction_materials_ar2520.md) | [cite:epd-ies-0021754-001-acm-rockbank-ar2520_l101] |
+| c-PCR-003 | Product category rules | c-PCR-003 (to 2019:14) Concrete and concrete elements, version 2025-04-08 | Declared | [Aurora AR2520](../products/aurora_construction_materials_ar2520.md) | [cite:epd-ies-0021754-001-acm-rockbank-ar2520_l103] |
+| AS 1379:2007 | Product standard | AS 1379:2007 "Specification and supply of concrete" | Declared | [Aurora AR2520](../products/aurora_construction_materials_ar2520.md) | [cite:epd-ies-0021754-001-acm-rockbank-ar2520_l194-l196] |
 | ISO 14025 | Declaration standard | IN ACCORDANCE WITH ISO 14025:2006, EN 15804:2012+A2:2019/AC:2021 | Declared | [Piave S32MPa GreenCrete 70](../products/piave_premix_concrete_s32mpa_greencrete_70.md) | [cite:epd-ies-0023043-s32mpa-greencrete-70_p1_l17] |
 | EN 15804 | Core PCR standard | The CEN standard EN 15804 serves as the core PCR. | Declared | [Piave S32MPa GreenCrete 70](../products/piave_premix_concrete_s32mpa_greencrete_70.md) | [cite:epd-ies-0023043-s32mpa-greencrete-70_p2_l76-l79] |
 | PCR 2019:14 | Product category rules | PCR 2019:14 Construction Products, Version 1.3.4, 2024-04-30 | Declared | [Piave S32MPa GreenCrete 70](../products/piave_premix_concrete_s32mpa_greencrete_70.md) | [cite:epd-ies-0023043-s32mpa-greencrete-70_p2_l70-l88] |
