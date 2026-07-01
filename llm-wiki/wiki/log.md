@@ -1,9 +1,5 @@
 # Audit Log
 
-- 2026-07-01: Ingested raw/EPD_HUB-5749_2026-06-27_en.json. Added Entire Concrete N25/10/100 Xencrete canonical evidence, product/source registry rows, and manufacturer, Hunter Valley facility, 25 MPa strength, standards, lifecycle, and A1-A3 GWP comparison relationships.
-
-- 2026-07-01: Ingested raw/EPD_HUB-5882_2026-06-27_en.json. Added Boral 40 MPa High Performance Concrete Melbourne canonical evidence, product/source registry rows, and manufacturer, Melbourne facility, S40 strength, standards, lifecycle, and A1-A3 GWP comparison relationships.
-
 - 2026-07-01: Ingested raw/epd-ies-0021165-sn252f100.json. Added Adbri Concrete SN252F100 metadata, South Australia production sites, declared unit, lifecycle scope, A1-A3/A4 evidence, lifecycle relationship rows, standards rows, strength-class rows, comparison rows, and source register entry.
 - 2026-07-01: Ingested raw/epd-ies-0021754-001-acm-rockbank-ar2520.json. Added Aurora AR2520 metadata, material traits, declared unit, A1-A3, A4-A5, C1-C4, D metrics, Rockbank facility page, and relationship index rows.
 - 2026-06-30: Ingested raw/epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf.json. Added product metadata, material traits, declared unit, A1-A3, A4-A5, C1-C4, and D metrics for Holcim QE252M100.
@@ -18,3 +14,6 @@
 - 2026-07-01: Added agent retrieval guidance, extensible topic-folder rules, product field inventories, and document type coverage in the raw source register.
 - 2026-07-01: Implemented layered wiki retrieval refactor. Added product snapshots, compacted the product registry, marked the Holcim GEOStone raw JSON as pending ingestion, updated relationship tables to concept-oriented columns, and clarified canonical evidence page rules in AGENTS.md.
 - 2026-07-01: Ingested raw/epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf.json. Added Holcim QX25MOR metadata, material traits, declared unit, A1-A3, A4-A5, C1-C4, D metrics, SEQ QLD facility relationship page, and relationship index rows.
+- 2026-07-01: Ingested raw/EPD_HUB-5882_2026-06-27_en.json. Added Boral 40 MPa High Performance Concrete Melbourne canonical evidence, product/source registry rows, and manufacturer, Melbourne facility, S40 strength, standards, lifecycle, and A1-A3 GWP comparison relationships.
+- 2026-07-01: Ingested raw/EPD_HUB-5749_2026-06-27_en.json. Added Entire Concrete N25/10/100 Xencrete canonical evidence, product/source registry rows, and manufacturer, Hunter Valley facility, 25 MPa strength, standards, lifecycle, and A1-A3 GWP comparison relationships.
+- 2026-07-01: Updated AGENTS.md and wiki/index.md for the reset raw source model. Replaced spatial JSON token citation guidance with immutable LiteParse Markdown page/line citation rules.
