@@ -7,3 +7,8 @@
 | Entire | Address | Entire - VWA Plant | N/A | [Entire Concrete N40/20 Xencrete](../products/entire_concrete_n40_20_xencrete.md) | [cite:EPD_HUB-5991_2026-06-27_en_l41] |
 | Entire | Contact details | adam@entireconcrete.com.au | N/A | [Entire Concrete N40/20 Xencrete](../products/entire_concrete_n40_20_xencrete.md) | [cite:EPD_HUB-5991_2026-06-27_en_l43] |
 | Entire | Production sites | Cameron Park and Singleton | N/A | [Entire Concrete N40/20 Xencrete](../products/entire_concrete_n40_20_xencrete.md) | [cite:EPD_HUB-5991_2026-06-27_en_l212] |
+| Entire Concrete | Product | N50/20 Xencrete | N/A | [Entire Concrete N50/20 Xencrete](../products/entire_concrete_n50_20_xencrete.md) | [cite:EPD_HUB-5943_2026-06-27_en_l15] |
+| Entire Concrete | EPD registration | HUB-5943 | N/A | [Entire Concrete N50/20 Xencrete](../products/entire_concrete_n50_20_xencrete.md) | [cite:EPD_HUB-5943_2026-06-27_en_l11] |
+| Entire Concrete | Address | 65 STENHOUSE DRIVE, Cameron Park New South Wales 2285 | N/A | [Entire Concrete N50/20 Xencrete](../products/entire_concrete_n50_20_xencrete.md) | [cite:EPD_HUB-5943_2026-06-27_en_l41] |
+| Entire Concrete | Contact details | adam@entireconcrete.com.au | N/A | [Entire Concrete N50/20 Xencrete](../products/entire_concrete_n50_20_xencrete.md) | [cite:EPD_HUB-5943_2026-06-27_en_l43] |
+| Entire Concrete | Production sites | Cameron Park and Singleton | N/A | [Entire Concrete N50/20 Xencrete](../products/entire_concrete_n50_20_xencrete.md) | [cite:EPD_HUB-5943_2026-06-27_en_l213] |

@@ -17,3 +17,8 @@
 | EPD Hub Core PCR | Product category rules | EPD Hub Core PCR version 1.2, 24 Mar 2025 | Declared | [Entire Concrete N40/20 Xencrete](../products/entire_concrete_n40_20_xencrete.md) | [cite:EPD_HUB-5991_2026-06-27_en_l64] |
 | EN 16757 | cPCR | EN 16757 Product Category Rules for concrete and concrete elements | Declared | [Entire Concrete N40/20 Xencrete](../products/entire_concrete_n40_20_xencrete.md) | [cite:EPD_HUB-5991_2026-06-27_en_l68-l70] |
 | ISO 14040/14044 | LCA standards | ISO 14040/14044 | Declared | [Entire Concrete N40/20 Xencrete](../products/entire_concrete_n40_20_xencrete.md) | [cite:EPD_HUB-5991_2026-06-27_en_l288-l290] |
+| ISO 14025 | Declaration standard | IN ACCORDANCE WITH EN 15804+A2 & ISO 14025 | Declared | [Entire Concrete N50/20 Xencrete](../products/entire_concrete_n50_20_xencrete.md) | [cite:EPD_HUB-5943_2026-06-27_en_l9] |
+| EN 15804 | Declaration standard | IN ACCORDANCE WITH EN 15804+A2 & ISO 14025 | Declared | [Entire Concrete N50/20 Xencrete](../products/entire_concrete_n50_20_xencrete.md) | [cite:EPD_HUB-5943_2026-06-27_en_l9] |
+| EPD Hub Core PCR | Product category rules | EPD Hub Core PCR version 1.2, 24 Mar 2025 | Declared | [Entire Concrete N50/20 Xencrete](../products/entire_concrete_n50_20_xencrete.md) | [cite:EPD_HUB-5943_2026-06-27_en_l60] |
+| EN 16757 | cPCR | EN 16757 Product Category Rules for concrete and concrete elements | Declared | [Entire Concrete N50/20 Xencrete](../products/entire_concrete_n50_20_xencrete.md) | [cite:EPD_HUB-5943_2026-06-27_en_l64-l66] |
+| ISO 14040/14044 | LCA standards | ISO 14040/14044 | Declared | [Entire Concrete N50/20 Xencrete](../products/entire_concrete_n50_20_xencrete.md) | [cite:EPD_HUB-5943_2026-06-27_en_l286-l288] |

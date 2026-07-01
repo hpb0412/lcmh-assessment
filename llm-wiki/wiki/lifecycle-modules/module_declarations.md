@@ -17,3 +17,8 @@
 | N40/20 Xencrete | B1-B7 | B1, B2, B3, B4, B5, B6, B7 | Not Declared | [Entire Concrete N40/20 Xencrete](../products/entire_concrete_n40_20_xencrete.md) | [cite:EPD_HUB-5991_2026-06-27_en_l176-l181] |
 | N40/20 Xencrete | C1-C4 | Deconstruction/demolition, transport end of life, waste processing, disposal | Declared | [Entire Concrete N40/20 Xencrete](../products/entire_concrete_n40_20_xencrete.md) | [cite:EPD_HUB-5991_2026-06-27_en_l199-l202] |
 | N40/20 Xencrete | D | Recycling beyond the system | Declared | [Entire Concrete N40/20 Xencrete](../products/entire_concrete_n40_20_xencrete.md) | [cite:EPD_HUB-5991_2026-06-27_en_l199-l202] |
+| N50/20 Xencrete | A1-A3 | Product stage modules A1, A2, A3 | Declared | [Entire Concrete N50/20 Xencrete](../products/entire_concrete_n50_20_xencrete.md) | [cite:EPD_HUB-5943_2026-06-27_en_l174-l181] |
+| N50/20 Xencrete | A4-A5 | Transport to site and installation/assembly | Declared | [Entire Concrete N50/20 Xencrete](../products/entire_concrete_n50_20_xencrete.md) | [cite:EPD_HUB-5943_2026-06-27_en_l174-l181] |
+| N50/20 Xencrete | B1-B7 | B1, B2, B3, B4, B5, B6, B7 | Not Declared | [Entire Concrete N50/20 Xencrete](../products/entire_concrete_n50_20_xencrete.md) | [cite:EPD_HUB-5943_2026-06-27_en_l176-l181] |
+| N50/20 Xencrete | C1-C4 | Deconstruction/demolition, transport end of life, waste processing, disposal | Declared | [Entire Concrete N50/20 Xencrete](../products/entire_concrete_n50_20_xencrete.md) | [cite:EPD_HUB-5943_2026-06-27_en_l199-l203] |
+| N50/20 Xencrete | D | Recycling beyond the system | Declared | [Entire Concrete N50/20 Xencrete](../products/entire_concrete_n50_20_xencrete.md) | [cite:EPD_HUB-5943_2026-06-27_en_l199-l203] |

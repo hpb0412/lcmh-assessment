@@ -10,3 +10,6 @@
 | N40/20 Xencrete | GWP - total A1-A3 | 2.73E+02 | kg CO2e | [Entire Concrete N40/20 Xencrete](../products/entire_concrete_n40_20_xencrete.md) | [cite:EPD_HUB-5991_2026-06-27_en_l380-l382] |
 | N40/20 Xencrete | GWP - fossil A1-A3 | 2.73E+02 | kg CO2e | [Entire Concrete N40/20 Xencrete](../products/entire_concrete_n40_20_xencrete.md) | [cite:EPD_HUB-5991_2026-06-27_en_l387] |
 | N40/20 Xencrete | GWP-GHG A1-A3 | 2.73E+02 | kg CO2e | [Entire Concrete N40/20 Xencrete](../products/entire_concrete_n40_20_xencrete.md) | [cite:EPD_HUB-5991_2026-06-27_en_l530-l532] |
+| N50/20 Xencrete | GWP - total A1-A3 | 3.10E+02 | kg CO2e | [Entire Concrete N50/20 Xencrete](../products/entire_concrete_n50_20_xencrete.md) | [cite:EPD_HUB-5943_2026-06-27_en_l388-l390] |
+| N50/20 Xencrete | GWP - fossil A1-A3 | 3.09E+02 | kg CO2e | [Entire Concrete N50/20 Xencrete](../products/entire_concrete_n50_20_xencrete.md) | [cite:EPD_HUB-5943_2026-06-27_en_l395] |
+| N50/20 Xencrete | GWP-GHG A1-A3 | 3.09E+02 | kg CO2e | [Entire Concrete N50/20 Xencrete](../products/entire_concrete_n50_20_xencrete.md) | [cite:EPD_HUB-5943_2026-06-27_en_l541-l543] |
