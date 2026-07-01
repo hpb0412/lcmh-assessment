@@ -11,15 +11,23 @@ This Wiki serves as an immutable, long-term knowledge base. It must capture ALL 
 ```
 raw/          -- Source LiteParse JSON documents (Immutable -- never modify)
 wiki/         -- Markdown pages maintained by the AI agent
-wiki/index.md -- Master Registry table of all concrete mixes
+wiki/index.md -- Knowledge base home page and top-level navigation hub
 wiki/log.md   -- Append-only audit ledger of all file updates
-wiki/products/           -- Canonical product pages named manufacturer_mix_identifier.md
-wiki/manufacturers/      -- Derived manufacturer relationship pages
-wiki/facilities/         -- Derived production facility and region pages
-wiki/standards/          -- Derived standards and PCR relationship pages
-wiki/lifecycle-modules/  -- Derived lifecycle module comparison pages
-wiki/strength-classes/   -- Derived compressive strength grouping pages
-wiki/comparisons/        -- Derived cross-product comparison pages
+wiki/products/index.md        -- Master product registry table of all concrete mixes
+wiki/products/                -- Canonical product pages named manufacturer_mix_identifier.md
+wiki/manufacturers/index.md   -- Manufacturer relationship page index
+wiki/manufacturers/           -- Derived manufacturer relationship pages
+wiki/facilities/index.md      -- Production facility and region page index
+wiki/facilities/              -- Derived production facility and region pages
+wiki/standards/index.md       -- Standards and PCR page index
+wiki/standards/               -- Derived standards and PCR relationship pages
+wiki/lifecycle-modules/index.md -- Lifecycle module page index
+wiki/lifecycle-modules/       -- Derived lifecycle module comparison pages
+wiki/strength-classes/index.md -- Compressive strength grouping page index
+wiki/strength-classes/        -- Derived compressive strength grouping pages
+wiki/comparisons/index.md     -- Cross-product comparison page index
+wiki/comparisons/             -- Derived cross-product comparison pages
+wiki/sources/index.md         -- Raw source document register mapping raw JSON to canonical wiki pages
 ```
 
 ---
@@ -40,9 +48,11 @@ wiki/comparisons/        -- Derived cross-product comparison pages
 When a user adds a new raw source file and asks you to ingest it:
 
 1.  Create the unique product page under `wiki/products/[manufacturer]_[mix_identifier].md` following the layout rules below.
-2.  **Update `wiki/index.md`**: Append a new row to the Master Registry table tracking: Product Name, Manufacturer, Compressive Strength, a markdown link to the new product page, and markdown links to relevant derived relationship pages.
+2.  **Update `wiki/products/index.md`**: Append a new row to the Master Product Registry table tracking: Product Name, Manufacturer, Compressive Strength, a markdown link to the new product page, and markdown links to relevant derived relationship pages.
 3.  **Update Derived Relationship Pages**: Add cited rows to all relevant manufacturer, facility, standard, lifecycle module, strength class, and comparison pages. Derived pages must reorganize facts from canonical product pages or raw LiteParse citations only; they must not introduce uncited facts or conversions.
-4.  **Update `wiki/log.md`**: Append a clean, timestamped entry logging the data insertion (e.g., `- 2026-06-30: Ingested holcim_mix_40.json. Added mix metadata and A1-A3 carbon metrics.`).
+4.  **Update Folder Indexes**: Keep the relevant folder-level `index.md` pages in sync so each new product, relationship page, comparison, and source document is reachable from `wiki/index.md` within two clicks.
+5.  **Update `wiki/sources/index.md`**: Add or update the raw source document register row mapping the raw JSON file to the canonical product page, EPD registration number, manufacturer, and ingestion status.
+6.  **Update `wiki/log.md`**: Append a clean, timestamped entry logging the data insertion (e.g., `- 2026-06-30: Ingested holcim_mix_40.json. Added mix metadata and A1-A3 carbon metrics.`).
 
 ---
 
@@ -53,7 +63,7 @@ When the user asks you to lint, verify, or audit the wiki, scan all files and re
 -   **Unit Mismatch Check**: Flag any page using non-standardized phrasing formats that might break downstream JSON regex parsers.
 -   **Missing Citation Check**: Identify any quantitative number or metric that lacks a trailing `[cite:...]` tag.
 -   **Format Compliance**: Flag any page that deviates from the standard structural header layouts.
--   **Relationship Sync Check**: Flag products that appear in `wiki/index.md` but are missing from relevant derived relationship pages.
+-   **Relationship Sync Check**: Flag products that appear in `wiki/products/index.md` but are missing from relevant derived relationship pages or folder indexes.
 
 ---
 
@@ -63,6 +73,7 @@ There are two supported wiki page types:
 
 1.  **Canonical Product Pages**: One comprehensive source-backed page per raw EPD/product. These pages are the source of truth and must use the product layout below.
 2.  **Derived Relationship Pages**: Cross-cutting pages under `wiki/manufacturers/`, `wiki/facilities/`, `wiki/standards/`, `wiki/lifecycle-modules/`, `wiki/strength-classes/`, and `wiki/comparisons/`. These pages summarize and link facts from canonical product pages. Every extracted fact or metric on derived pages must include visible citations, and every row must link back to the source product page.
+3.  **Navigation Index Pages**: `wiki/index.md` and folder-level `index.md` files provide discovery paths only. Do not duplicate all extracted facts there. Use citations only where the index itself includes source-derived factual values.
 
 Every generated product wiki file must strictly use this layout:
 
