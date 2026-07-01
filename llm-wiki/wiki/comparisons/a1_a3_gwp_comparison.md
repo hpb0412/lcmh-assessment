@@ -8,3 +8,4 @@
 | QX25MOR | GWP-Total A1-A3 | 237 | kg CO2 eq. | [Holcim Australia QX25MOR](../products/holcim_australia_qx25mor.md) | [cite:epd-australasia-com-wp-content-uploads-2024-12-epd-ies-0014327-002-holcim-qld-seq-geostone-qx25mor-2026-04-02-pdf_l629-l631] |
 | N40/20 Xencrete | GWP - total A1-A3 | 2.73E+02 | kg CO2e | [Entire Concrete N40/20 Xencrete](../products/entire_concrete_n40_20_xencrete.md) | [cite:EPD_HUB-5991_2026-06-27_en_l380-l382] |
 | N50/20 Xencrete | GWP - total A1-A3 | 3.10E+02 | kg CO2e | [Entire Concrete N50/20 Xencrete](../products/entire_concrete_n50_20_xencrete.md) | [cite:EPD_HUB-5943_2026-06-27_en_l388-l390] |
+| 40 MPa High Performance Concrete | GWP - total A1-A3 | 2.97E+02 | kg CO2e | [Boral 40 MPa High Performance Concrete](../products/boral_limited_40_mpa_high_performance_concrete.md) | [cite:EPD_HUB-5882_2026-06-27_en_l499] |

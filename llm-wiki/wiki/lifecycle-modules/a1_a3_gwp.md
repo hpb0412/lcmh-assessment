@@ -19,3 +19,6 @@
 | N50/20 Xencrete | GWP - total A1-A3 | 3.10E+02 | kg CO2e | [Entire Concrete N50/20 Xencrete](../products/entire_concrete_n50_20_xencrete.md) | [cite:EPD_HUB-5943_2026-06-27_en_l388-l390] |
 | N50/20 Xencrete | GWP - fossil A1-A3 | 3.09E+02 | kg CO2e | [Entire Concrete N50/20 Xencrete](../products/entire_concrete_n50_20_xencrete.md) | [cite:EPD_HUB-5943_2026-06-27_en_l395] |
 | N50/20 Xencrete | GWP-GHG A1-A3 | 3.09E+02 | kg CO2e | [Entire Concrete N50/20 Xencrete](../products/entire_concrete_n50_20_xencrete.md) | [cite:EPD_HUB-5943_2026-06-27_en_l541-l543] |
+| 40 MPa High Performance Concrete | GWP - total A1-A3 | 2.97E+02 | kg CO2e | [Boral 40 MPa High Performance Concrete](../products/boral_limited_40_mpa_high_performance_concrete.md) | [cite:EPD_HUB-5882_2026-06-27_en_l499] |
+| 40 MPa High Performance Concrete | GWP - fossil A1-A3 | 2.97E+02 | kg CO2e | [Boral 40 MPa High Performance Concrete](../products/boral_limited_40_mpa_high_performance_concrete.md) | [cite:EPD_HUB-5882_2026-06-27_en_l501] |
+| 40 MPa High Performance Concrete | GWP-GHG A1-A3 | 2.97E+02 | kg CO2e | [Boral 40 MPa High Performance Concrete](../products/boral_limited_40_mpa_high_performance_concrete.md) | [cite:EPD_HUB-5882_2026-06-27_en_l833-l835] |
