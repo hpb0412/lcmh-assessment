@@ -1,0 +1,10 @@
+# Hallett Group Pty Ltd
+
+| Entity | Concept | Value | Unit / Status | Source Product | Cite |
+| --- | --- | --- | --- | --- | --- |
+| Hallett Group Pty Ltd | Declaration owner | Hallett Group Pty Ltd | N/A | [Hallett Ready Mix Concrete Products](../products/hallett_group_ready_mix_concrete_products.md) | [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l2050] |
+| Hallett Group Pty Ltd | Address | 126 Churchill Rd North, Dry Creek SA 5094, Australia | N/A | [Hallett Ready Mix Concrete Products](../products/hallett_group_ready_mix_concrete_products.md) | [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l2050-l2056] |
+| Hallett Group Pty Ltd | Product | READY MIX CONCRETE PRODUCTS | N/A | [Hallett Ready Mix Concrete Products](../products/hallett_group_ready_mix_concrete_products.md) | [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l3-l5] |
+| Hallett Group Pty Ltd | EPD registration | EPD-IES-0009353:003 | N/A | [Hallett Ready Mix Concrete Products](../products/hallett_group_ready_mix_concrete_products.md) | [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l11] |
+| Hallett Group Pty Ltd | Production sites | Dry Creek, Elizabeth, Mile End, McLaren Vale, and Osborne batching plants around South Australia | N/A | [Hallett Ready Mix Concrete Products](../products/hallett_group_ready_mix_concrete_products.md) | [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l39] |
+| Hallett Group Pty Ltd | Net zero target | committed to achieving its net zero emissions goal for all operations by 2050 | N/A | [Hallett Ready Mix Concrete Products](../products/hallett_group_ready_mix_concrete_products.md) | [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l139-l143] |

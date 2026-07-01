@@ -1,0 +1,11 @@
+# South Australia - Hallett Ready Mix Facilities
+
+| Entity | Concept | Value | Unit / Status | Source Product | Cite |
+| --- | --- | --- | --- | --- | --- |
+| South Australia | Production region | five batching plants around South Australia | N/A | [Hallett Ready Mix Concrete Products](../products/hallett_group_ready_mix_concrete_products.md) | [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l39] |
+| Dry Creek | Production site | 140 Churchill Road North, Dry Creek | N/A | [Hallett Ready Mix Concrete Products](../products/hallett_group_ready_mix_concrete_products.md) | [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l233] |
+| Elizabeth | Production site | Womma Road, Elizabeth West | N/A | [Hallett Ready Mix Concrete Products](../products/hallett_group_ready_mix_concrete_products.md) | [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l237-l239] |
+| Mile End | Production site | Cnr Railway Terrace and Manchester Street, Mile End | N/A | [Hallett Ready Mix Concrete Products](../products/hallett_group_ready_mix_concrete_products.md) | [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l241-l245] |
+| McLaren Vale | Production site | Long Gully Road, McLaren Vale | N/A | [Hallett Ready Mix Concrete Products](../products/hallett_group_ready_mix_concrete_products.md) | [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l247] |
+| Osborne | Production site | Pelican Point Road, Outer Harbour | N/A | [Hallett Ready Mix Concrete Products](../products/hallett_group_ready_mix_concrete_products.md) | [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l248-l249] |
+| South Australia | Primary batching plant data | Dry Creek, Elizabeth, Mile End, McLaren Vale, and Osborne | N/A | [Hallett Ready Mix Concrete Products](../products/hallett_group_ready_mix_concrete_products.md) | [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l567] |
