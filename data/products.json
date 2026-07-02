@@ -3,129 +3,136 @@
     "id": "adbri_limited_sn252f100",
     "productName": {
       "value": "Adbri Concrete EPD-SN252F100 South Australia",
-      "citation": "[cite:epd-ies-0021165-sn252f100_l3]"
+      "citation": "[cite:epd-ies-0021165-sn252f100-llamaparse_p1_l4]"
     },
     "manufacturer": {
       "value": "Adbri Limited",
-      "citation": "[cite:epd-ies-0021165-sn252f100_l250]"
+      "citation": "[cite:epd-ies-0021165-sn252f100-llamaparse_p10_l260-l261]"
     },
     "epdRegistrationNumber": {
       "value": "EPD-IES-0021165",
-      "citation": "[cite:epd-ies-0021165-sn252f100_l11]"
+      "citation": "[cite:epd-ies-0021165-sn252f100-llamaparse_p1_l9]"
     },
     "canonicalProductPage": "wiki/products/adbri_limited_sn252f100.md",
-    "rawSource": "raw/epd-ies-0021165-sn252f100.md",
+    "rawSource": "raw/epd-ies-0021165-sn252f100-llamaparse.md",
     "declaredUnit": {
-      "value": "one cubic metre (1m3) of manufactured concrete",
-      "citation": "[cite:epd-ies-0021165-sn252f100_l396-l398]"
+      "value": "one cubic metre (1m<sup>3</sup>) of manufactured concrete",
+      "citation": "[cite:epd-ies-0021165-sn252f100-llamaparse_p16_l535-l537]"
     },
     "compressiveStrength": {
-      "raw": "Not readable as a discrete SN252F100 field in the raw extraction; product grouping variables include Strength (MPa): 20, 25, 32, 40, 50",
-      "citation": "[cite:epd-ies-0021165-sn252f100_l695-l699]"
+      "raw": "25 MPa",
+      "citation": "[cite:epd-ies-0021165-sn252f100-llamaparse_p32_l1662-l1663]",
+      "valueMpa": 25.0
     },
     "manufacturingLocation": {
       "raw": "South Australia; Burton, Dry Creek, Gawler, Gillman, Littlehampton, Lonsdale, Murray Bridge, Sellicks, Victor Harbor, Welland",
       "searchableText": "south australia; burton, dry creek, gawler, gillman, littlehampton, lonsdale, murray bridge, sellicks, victor harbor, welland",
-      "citation": "[cite:epd-ies-0021165-sn252f100_l262-l270]"
+      "citation": "[cite:epd-ies-0021165-sn252f100-llamaparse_p10_l268-l269] [cite:epd-ies-0021165-sn252f100-llamaparse_p11_l283-l321]"
     },
     "lifecycleScope": {
       "value": "cradle-to-gate with options for modules A4, A5, C1 - C4 and D",
-      "citation": "[cite:epd-ies-0021165-sn252f100_l416-l418]"
+      "citation": "[cite:epd-ies-0021165-sn252f100-llamaparse_p16_l549-l553]"
     },
     "carbon": [
       {
         "stage": "A1-A3",
-        "status": "Not Comparable",
+        "status": "Declared",
         "indicator": "GWP-Total",
-        "citation": "[cite:epd-ies-0021165-sn252f100_l877-l881] [cite:epd-ies-0021165-sn252f100_l1073-l1075]"
+        "citation": "[cite:epd-ies-0021165-sn252f100-llamaparse_p32_l1604-l1677]",
+        "valueRaw": "143.83",
+        "valueNumber": 143.83,
+        "unit": "kg CO2 eq."
       },
       {
         "stage": "A4",
-        "status": "Not Comparable",
+        "status": "Declared",
         "indicator": "GWP-Total",
-        "citation": "[cite:epd-ies-0021165-sn252f100_l877-l881] [cite:epd-ies-0021165-sn252f100_l1073-l1075]"
+        "citation": "[cite:epd-ies-0021165-sn252f100-llamaparse_p34_l1860-l1918]",
+        "valueRaw": "9.64",
+        "valueNumber": 9.64,
+        "unit": "kg CO2 eq."
       },
       {
         "stage": "A5",
-        "status": "Not Comparable",
+        "status": "Not Available",
         "indicator": "GWP-Total",
-        "citation": "[cite:epd-ies-0021165-sn252f100_l877-l881] [cite:epd-ies-0021165-sn252f100_l1073-l1075]"
+        "citation": "[cite:epd-ies-0021165-sn252f100-llamaparse_p17_l562-l653]"
       },
       {
         "stage": "B1",
-        "status": "Not Comparable",
+        "status": "Not Declared",
         "indicator": "GWP-Total",
-        "citation": "[cite:epd-ies-0021165-sn252f100_l877-l881] [cite:epd-ies-0021165-sn252f100_l1073-l1075]"
+        "citation": "[cite:epd-ies-0021165-sn252f100-llamaparse_p17_l562-l653]"
       },
       {
         "stage": "B2",
-        "status": "Not Comparable",
+        "status": "Not Declared",
         "indicator": "GWP-Total",
-        "citation": "[cite:epd-ies-0021165-sn252f100_l877-l881] [cite:epd-ies-0021165-sn252f100_l1073-l1075]"
+        "citation": "[cite:epd-ies-0021165-sn252f100-llamaparse_p17_l562-l653]"
       },
       {
         "stage": "B3",
-        "status": "Not Comparable",
+        "status": "Not Declared",
         "indicator": "GWP-Total",
-        "citation": "[cite:epd-ies-0021165-sn252f100_l877-l881] [cite:epd-ies-0021165-sn252f100_l1073-l1075]"
+        "citation": "[cite:epd-ies-0021165-sn252f100-llamaparse_p17_l562-l653]"
       },
       {
         "stage": "B4",
-        "status": "Not Comparable",
+        "status": "Not Declared",
         "indicator": "GWP-Total",
-        "citation": "[cite:epd-ies-0021165-sn252f100_l877-l881] [cite:epd-ies-0021165-sn252f100_l1073-l1075]"
+        "citation": "[cite:epd-ies-0021165-sn252f100-llamaparse_p17_l562-l653]"
       },
       {
         "stage": "B5",
-        "status": "Not Comparable",
+        "status": "Not Declared",
         "indicator": "GWP-Total",
-        "citation": "[cite:epd-ies-0021165-sn252f100_l877-l881] [cite:epd-ies-0021165-sn252f100_l1073-l1075]"
+        "citation": "[cite:epd-ies-0021165-sn252f100-llamaparse_p17_l562-l653]"
       },
       {
         "stage": "B6",
-        "status": "Not Comparable",
+        "status": "Not Declared",
         "indicator": "GWP-Total",
-        "citation": "[cite:epd-ies-0021165-sn252f100_l877-l881] [cite:epd-ies-0021165-sn252f100_l1073-l1075]"
+        "citation": "[cite:epd-ies-0021165-sn252f100-llamaparse_p17_l562-l653]"
       },
       {
         "stage": "B7",
-        "status": "Not Comparable",
+        "status": "Not Declared",
         "indicator": "GWP-Total",
-        "citation": "[cite:epd-ies-0021165-sn252f100_l877-l881] [cite:epd-ies-0021165-sn252f100_l1073-l1075]"
+        "citation": "[cite:epd-ies-0021165-sn252f100-llamaparse_p17_l562-l653]"
       },
       {
         "stage": "C1",
-        "status": "Not Comparable",
+        "status": "Not Available",
         "indicator": "GWP-Total",
-        "citation": "[cite:epd-ies-0021165-sn252f100_l877-l881] [cite:epd-ies-0021165-sn252f100_l1073-l1075]"
+        "citation": "[cite:epd-ies-0021165-sn252f100-llamaparse_p17_l562-l653]"
       },
       {
         "stage": "C2",
-        "status": "Not Comparable",
+        "status": "Not Available",
         "indicator": "GWP-Total",
-        "citation": "[cite:epd-ies-0021165-sn252f100_l877-l881] [cite:epd-ies-0021165-sn252f100_l1073-l1075]"
+        "citation": "[cite:epd-ies-0021165-sn252f100-llamaparse_p17_l562-l653]"
       },
       {
         "stage": "C3",
-        "status": "Not Comparable",
+        "status": "Not Available",
         "indicator": "GWP-Total",
-        "citation": "[cite:epd-ies-0021165-sn252f100_l877-l881] [cite:epd-ies-0021165-sn252f100_l1073-l1075]"
+        "citation": "[cite:epd-ies-0021165-sn252f100-llamaparse_p17_l562-l653]"
       },
       {
         "stage": "C4",
-        "status": "Not Comparable",
+        "status": "Not Available",
         "indicator": "GWP-Total",
-        "citation": "[cite:epd-ies-0021165-sn252f100_l877-l881] [cite:epd-ies-0021165-sn252f100_l1073-l1075]"
+        "citation": "[cite:epd-ies-0021165-sn252f100-llamaparse_p17_l562-l653]"
       },
       {
         "stage": "D",
-        "status": "Not Comparable",
+        "status": "Not Available",
         "indicator": "GWP-Total",
-        "citation": "[cite:epd-ies-0021165-sn252f100_l877-l881] [cite:epd-ies-0021165-sn252f100_l1073-l1075]"
+        "citation": "[cite:epd-ies-0021165-sn252f100-llamaparse_p17_l562-l653]"
       }
     ],
     "comparabilityFlags": [
-      "not readable as a stable numeric value in raw extraction"
+      "partial carbon values extracted from product snapshot/key-value rows"
     ]
   },
   {

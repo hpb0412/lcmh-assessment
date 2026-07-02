@@ -31,7 +31,6 @@ STAGES = [
 ]
 
 NOT_COMPARABLE_PRODUCTS = {
-    "adbri_limited_sn252f100": "not readable as a stable numeric value in raw extraction",
     "hallett_group_ready_mix_concrete_products": "multiple product- and plant-specific values",
 }
 
@@ -91,10 +90,16 @@ def module_matrix(text: str) -> dict[str, dict[str, str]]:
     statuses: dict[str, dict[str, str]] = {}
 
     for header, rows in parse_tables(text):
-        if not (header and header[0] == "Module" and "Status" in header and "Cite" in header):
+        if not (header and header[0] == "Module" and "Cite" in header):
             continue
 
-        status_index = header.index("Status")
+        if "Status" in header:
+            status_index = header.index("Status")
+        elif "Normalized Status" in header:
+            status_index = header.index("Normalized Status")
+        else:
+            continue
+
         cite_index = header.index("Cite")
         for row in rows:
             if len(row) <= max(status_index, cite_index):
@@ -132,6 +137,76 @@ def find_primary_gwp_row(text: str) -> tuple[list[str], list[str], str] | None:
                 fallback = (header, row, "GWP-Fossil")
 
     return fallback
+
+
+def split_value_unit(raw: str) -> tuple[str, str] | None:
+    value = clean_value(raw).replace("<sup>", "").replace("</sup>", "")
+    match = re.match(r"^\s*([-+]?\d+(?:\.\d+)?(?:E[-+]?\d+)?)\s+(.+?)\s*$", value, re.IGNORECASE)
+    if not match:
+        return None
+    return match.group(1), match.group(2)
+
+
+def key_value_rows(text: str) -> dict[str, dict[str, str]]:
+    values: dict[str, dict[str, str]] = {}
+
+    for header, rows in parse_tables(text):
+        if header[:3] != ["Key", "Value", "Cite"]:
+            continue
+        for row in rows:
+            if len(row) < 3:
+                continue
+            values[clean_value(row[0]).lower()] = {
+                "value": clean_value(row[1]),
+                "citation": citation_cell(row[2]) or citation_cell(row[1]),
+            }
+
+    return values
+
+
+def build_carbon_from_key_values(
+    text: str,
+    snapshot: dict[str, dict[str, str]],
+    matrix: dict[str, dict[str, str]],
+) -> tuple[list[dict[str, object]] | None, list[str]]:
+    rows = key_value_rows(text)
+    extracted: dict[str, tuple[str, str, str]] = {}
+
+    snapshot_gwp = snapshot.get("A1-A3 GWP")
+    if snapshot_gwp:
+        parsed = split_value_unit(snapshot_gwp.get("value", ""))
+        if parsed:
+            extracted["A1-A3"] = (
+                parsed[0],
+                parsed[1],
+                snapshot_gwp.get("citation", ""),
+            )
+
+    a4_gwp = rows.get("a4 global warming potential - total")
+    if a4_gwp:
+        parsed = split_value_unit(a4_gwp.get("value", ""))
+        if parsed:
+            extracted["A4"] = (
+                parsed[0],
+                parsed[1],
+                a4_gwp.get("citation", ""),
+            )
+
+    if not extracted:
+        return None, []
+
+    carbon: list[dict[str, object]] = []
+    for stage in STAGES:
+        if stage in extracted:
+            value, unit, citation = extracted[stage]
+            add_stage(carbon, stage, "Declared", citation, "GWP-Total", value, unit)
+            continue
+
+        module_status = matrix.get(stage, {})
+        status = "Not Available" if module_status.get("status") == "Declared" else "Not Declared"
+        add_stage(carbon, stage, status, module_status.get("citation", ""), "GWP-Total")
+
+    return carbon, ["partial carbon values extracted from product snapshot/key-value rows"]
 
 
 def parse_number(raw: str) -> float | None:
@@ -205,6 +280,10 @@ def build_carbon(
 
     primary = find_primary_gwp_row(text)
     if primary is None:
+        fallback_carbon, fallback_flags = build_carbon_from_key_values(text, snapshot, matrix)
+        if fallback_carbon is not None:
+            return fallback_carbon, fallback_flags
+
         for stage in STAGES:
             module_status = matrix.get(stage, {})
             status = "Not Available" if module_status.get("status") == "Declared" else "Not Declared"
@@ -256,6 +335,10 @@ def raw_source_map(root: Path) -> dict[str, str]:
             continue
 
         cells = [cell.strip() for cell in line.strip().strip("|").split("|")]
+        status = cells[6] if len(cells) > 6 else ""
+        if status.lower().startswith("superseded"):
+            continue
+
         raw_match = re.search(r"\[raw/([^\]]+)\]", cells[0]) if cells else None
         page_match = re.search(r"\]\(\.\./products/([^\)]+)\)", cells[1]) if len(cells) > 1 else None
         if raw_match and page_match:

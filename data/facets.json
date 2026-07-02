@@ -12,7 +12,7 @@
   "compressiveStrengthClasses": [
     {
       "raw": "25 MPa",
-      "citation": "[cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_l408-l412]",
+      "citation": "[cite:epd-ies-0021165-sn252f100-llamaparse_p32_l1662-l1663]",
       "valueMpa": 25.0
     },
     {
@@ -44,10 +44,6 @@
       "raw": "Multiple product grades including 10, 15, 20, 25, 32, 40, 50, 65, and 80 MPa",
       "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l196-l293]",
       "valueMpa": 80.0
-    },
-    {
-      "raw": "Not readable as a discrete SN252F100 field in the raw extraction; product grouping variables include Strength (MPa): 20, 25, 32, 40, 50",
-      "citation": "[cite:epd-ies-0021165-sn252f100_l695-l699]"
     }
   ],
   "manufacturingLocations": [
@@ -89,114 +85,114 @@
     {
       "raw": "South Australia; Burton, Dry Creek, Gawler, Gillman, Littlehampton, Lonsdale, Murray Bridge, Sellicks, Victor Harbor, Welland",
       "searchableText": "south australia; burton, dry creek, gawler, gillman, littlehampton, lonsdale, murray bridge, sellicks, victor harbor, welland",
-      "citation": "[cite:epd-ies-0021165-sn252f100_l262-l270]"
+      "citation": "[cite:epd-ies-0021165-sn252f100-llamaparse_p10_l268-l269] [cite:epd-ies-0021165-sn252f100-llamaparse_p11_l283-l321]"
     }
   ],
   "lifecycleStages": [
     {
       "stage": "A1-A3",
-      "declaredCount": 7,
+      "declaredCount": 8,
       "notDeclaredCount": 0,
       "notAvailableCount": 0,
-      "notComparableCount": 2
+      "notComparableCount": 1
     },
     {
       "stage": "A4",
-      "declaredCount": 4,
+      "declaredCount": 5,
       "notDeclaredCount": 4,
       "notAvailableCount": 0,
-      "notComparableCount": 1
+      "notComparableCount": 0
     },
     {
       "stage": "A5",
       "declaredCount": 4,
       "notDeclaredCount": 4,
-      "notAvailableCount": 0,
-      "notComparableCount": 1
+      "notAvailableCount": 1,
+      "notComparableCount": 0
     },
     {
       "stage": "B1",
       "declaredCount": 0,
-      "notDeclaredCount": 8,
+      "notDeclaredCount": 9,
       "notAvailableCount": 0,
-      "notComparableCount": 1
+      "notComparableCount": 0
     },
     {
       "stage": "B2",
       "declaredCount": 0,
-      "notDeclaredCount": 8,
+      "notDeclaredCount": 9,
       "notAvailableCount": 0,
-      "notComparableCount": 1
+      "notComparableCount": 0
     },
     {
       "stage": "B3",
       "declaredCount": 0,
-      "notDeclaredCount": 8,
+      "notDeclaredCount": 9,
       "notAvailableCount": 0,
-      "notComparableCount": 1
+      "notComparableCount": 0
     },
     {
       "stage": "B4",
       "declaredCount": 0,
-      "notDeclaredCount": 8,
+      "notDeclaredCount": 9,
       "notAvailableCount": 0,
-      "notComparableCount": 1
+      "notComparableCount": 0
     },
     {
       "stage": "B5",
       "declaredCount": 0,
-      "notDeclaredCount": 8,
+      "notDeclaredCount": 9,
       "notAvailableCount": 0,
-      "notComparableCount": 1
+      "notComparableCount": 0
     },
     {
       "stage": "B6",
       "declaredCount": 0,
-      "notDeclaredCount": 8,
+      "notDeclaredCount": 9,
       "notAvailableCount": 0,
-      "notComparableCount": 1
+      "notComparableCount": 0
     },
     {
       "stage": "B7",
       "declaredCount": 0,
-      "notDeclaredCount": 8,
+      "notDeclaredCount": 9,
       "notAvailableCount": 0,
-      "notComparableCount": 1
+      "notComparableCount": 0
     },
     {
       "stage": "C1",
       "declaredCount": 7,
       "notDeclaredCount": 0,
-      "notAvailableCount": 0,
-      "notComparableCount": 2
+      "notAvailableCount": 1,
+      "notComparableCount": 1
     },
     {
       "stage": "C2",
       "declaredCount": 7,
       "notDeclaredCount": 0,
-      "notAvailableCount": 0,
-      "notComparableCount": 2
+      "notAvailableCount": 1,
+      "notComparableCount": 1
     },
     {
       "stage": "C3",
       "declaredCount": 7,
       "notDeclaredCount": 0,
-      "notAvailableCount": 0,
-      "notComparableCount": 2
+      "notAvailableCount": 1,
+      "notComparableCount": 1
     },
     {
       "stage": "C4",
       "declaredCount": 7,
       "notDeclaredCount": 0,
-      "notAvailableCount": 0,
-      "notComparableCount": 2
+      "notAvailableCount": 1,
+      "notComparableCount": 1
     },
     {
       "stage": "D",
       "declaredCount": 7,
       "notDeclaredCount": 0,
-      "notAvailableCount": 0,
-      "notComparableCount": 2
+      "notAvailableCount": 1,
+      "notComparableCount": 1
     }
   ]
 }
