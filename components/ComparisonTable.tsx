@@ -119,6 +119,21 @@ export function ComparisonTable({ products, onRemove }: ComparisonTableProps) {
 
           {/* Body */}
           <tbody>
+            <tr>
+              <td className="px-4 py-2 align-middle">
+                <span className="text-xs font-semibold tracking-wide text-zinc-700 uppercase">
+                  Scope
+                </span>
+              </td>
+              {/* Stage values per product */}
+              {products.map((product) => {
+                return (
+                  <td key={product.id} className="px-3 py-2 text-[10px] text-zinc-500 border">
+                    {product.lifecycleScope.value}
+                  </td> 
+                );
+              })}
+            </tr>
             {ALL_STAGES.map((stageName) => {
               const maxVal = getMaxForStage(stageName);
               const minProductId = getMinProductId(stageName);
