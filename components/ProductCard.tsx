@@ -1,5 +1,3 @@
-"use client";
-
 import { AlertTriangle, CheckCircle2, MapPin, Zap, Plus, Check } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
 import type { Product } from "@/lib/types";
@@ -16,7 +14,7 @@ interface ProductCardProps {
   maxA1A3: number;
 }
 
-const DISPLAY_STAGES = ["A1-A3", "A4", "A5", "C1", "C2", "C3", "C4", "D"];
+const DISPLAY_STAGES = ["A1-A3", "A4", "A5", "B1", "B2", "B3", "B4", "B5", "B6", "B7", "C1", "C2", "C3", "C4", "D"];
 
 export function ProductCard({
   product,
@@ -105,8 +103,8 @@ export function ProductCard({
       {/* A1-A3 bar */}
       <div>
         <div className="flex items-baseline justify-between mb-1">
-          <span className="text-xs text-zinc-500 font-medium">
-            A1-A3 Production carbon
+          <span className="text-[10px] text-zinc-500 font-medium">
+            A1-A3 Production Carbon
           </span>
           {a1a3 !== null ? (
             <span className="text-sm font-bold text-zinc-900 tabular-nums">
@@ -147,7 +145,7 @@ export function ProductCard({
               <div
                 key={stageName}
                 className={`h-5 rounded text-[9px] flex items-center justify-center border font-medium select-none ${config.bgClass} ${config.borderClass} ${config.patternClass ?? ""} ${config.textClass}`}
-                title={`${stageName}: ${status}${stage?.valueNumber !== undefined ? ` (${stage.valueNumber.toFixed(1)})` : ""}`}
+                title={`${stageName}: ${status}${stage?.valueNumber !== undefined ? ` (${stage.valueNumber.toFixed(1)})` : ""} ${stage?.citation}`}
               >
                 {stageName === "A1-A3" ? "A1-3" : stageName}
               </div>
