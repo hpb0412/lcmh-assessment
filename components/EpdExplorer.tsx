@@ -132,7 +132,7 @@ export function EpdExplorer({ initialProducts }: EpdExplorerProps) {
             <h2 className="text-base font-semibold text-zinc-800">
               Stage-by-stage comparison
             </h2>
-            <p className="text-xs text-zinc-400">
+            <p className="text-xs text-blue-400">
               Hover non-declared cells for explanations · Lowest declared
               value per stage is highlighted
             </p>
