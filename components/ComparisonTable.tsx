@@ -5,6 +5,7 @@ import { StageCell } from "./StageCell";
 import type { Product } from "@/lib/types";
 import { ALL_STAGES, STAGE_GROUPS } from "@/lib/data";
 import { hasComparabilityIssue } from "@/lib/utils";
+import { Fragment } from "react/jsx-runtime";
 
 interface ComparisonTableProps {
   products: Product[];
@@ -124,7 +125,7 @@ export function ComparisonTable({ products, onRemove }: ComparisonTableProps) {
               const groupLabel = STAGE_GROUP_LABELS[stageName];
 
               return (
-                <>
+                <Fragment key={stageName}>
                   {/* Group header row */}
                   {isGroupHeader(stageName) && groupLabel && (
                     <tr key={`group-${stageName}`} className="bg-zinc-900">
@@ -139,7 +140,6 @@ export function ComparisonTable({ products, onRemove }: ComparisonTableProps) {
 
                   {/* Stage row */}
                   <tr
-                    key={stageName}
                     className="border-b border-zinc-100 hover:bg-zinc-50/50 transition-colors"
                   >
                     {/* Stage label */}
@@ -170,7 +170,7 @@ export function ComparisonTable({ products, onRemove }: ComparisonTableProps) {
                       );
                     })}
                   </tr>
-                </>
+                </Fragment>
               );
             })}
           </tbody>

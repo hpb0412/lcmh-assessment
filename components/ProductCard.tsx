@@ -79,14 +79,14 @@ export function ProductCard({
 
       {/* Key attributes */}
       <div className="flex flex-wrap gap-1.5">
-        <Badge variant="outline" className="text-xs gap-1 font-medium">
+        <Badge variant="outline" className="text-xs gap-1 font-medium" title={product.compressiveStrength.raw}>
           <Zap className="w-3 h-3" />
           {product.compressiveStrength.raw}
         </Badge>
-        <Badge variant="outline" className="text-xs gap-1 font-normal text-zinc-500">
+        <Badge variant="outline" className="text-xs gap-1 font-normal text-zinc-500" title={product.manufacturingLocation.raw}>
           <MapPin className="w-3 h-3" />
-          {product.manufacturingLocation.raw.length > 45
-            ? product.manufacturingLocation.raw.slice(0, 43) + "…"
+          {product.manufacturingLocation.raw.length > 38
+            ? product.manufacturingLocation.raw.slice(0, 36) + "…"
             : product.manufacturingLocation.raw}
         </Badge>
       </div>
@@ -146,7 +146,7 @@ export function ProductCard({
             return (
               <div
                 key={stageName}
-                className={`h-5 rounded text-[9px] flex items-center justify-center border font-medium ${config.bgClass} ${config.borderClass} ${config.patternClass ?? ""} ${config.textClass}`}
+                className={`h-5 rounded text-[9px] flex items-center justify-center border font-medium select-none ${config.bgClass} ${config.borderClass} ${config.patternClass ?? ""} ${config.textClass}`}
                 title={`${stageName}: ${status}${stage?.valueNumber !== undefined ? ` (${stage.valueNumber.toFixed(1)})` : ""}`}
               >
                 {stageName === "A1-A3" ? "A1-3" : stageName}
