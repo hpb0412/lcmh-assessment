@@ -42,9 +42,10 @@ yarn-error.log*
 next-env.d.ts
 
 # Ignore workspace state (causes frequent merge conflicts)
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/workspaces.json
+**/.obsidian/workspace.json
+**/.obsidian/workspace-mobile.json
+**/.obsidian/workspace.json
+**/.obsidian/workspaces.json
 
 # Ignore system/cache files
-.obsidian/cache/
+**/.obsidian/cache/
