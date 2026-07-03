@@ -18,6 +18,16 @@ Every extracted carbon figure is linked back to its source EPD. When I wasn't co
 I preferred marking it as unavailable or not comparable rather than inventing or inferring data.
 In this assessment, preserving data integrity was more important than maximizing completeness.
 
+About the Strategy:
+
+- Instead of PDFs to JSONs. Product by product
+- I prefer building a base system, where
+  - I pass each product into and build up the foundation indexed knowledge.
+  - Data extract is based on indexed information for speed and flexibility.
+    - This helps scale the product with any shape of data, not just the one of this assessment
+    - Moreover, not just embodied carbon information of the product, the filters (facets) also created dynamically from here
+    - Super convenient (facets gen), automatically aggregating (a single `products.json` contains all products with aggreated data)
+
 The final model/architecture looks like:
 
 > PDFs ---[static parse]--> MDs ---[ingest to]--> LLM wiki ---[extract to]--> JSONs ---[feed to]--> App
