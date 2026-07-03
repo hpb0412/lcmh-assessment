@@ -102,6 +102,10 @@ export function EpdExplorer({ initialProducts }: EpdExplorerProps) {
         />
       </div>
 
+      <p className="text-xs text-blue-400">
+        Hover stage in product card for data provenance · the [cite] - "clickable link" comming soon
+      </p>
+
       {/* Product grid */}
 
       {filteredProducts.length === 0 ? (

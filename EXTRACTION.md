@@ -4,6 +4,24 @@
 
 This document will walk you through not only my thinking process, but also what I encountered during the journey and how I handled it.
 
+About the Accuracy:
+
+I didn't assume the first extraction was correct. Every iteration was followed by manual verification against the original EPDs.
+
+There were several situations where extraction could fail:
+
+- Missing values — A missing life-cycle stage does not necessarily mean zero. I explicitly distinguish between "Not Available", "Not Declared", and actual numeric values so the application never treats missing data as zero.
+- OCR limitations — Some EPDs contained rotated table images that the local OCR parser failed to recognize. When I found missing values during verification, I traced them back to the original PDF, identified the OCR limitation, and validated the same document using LlamaParse. This confirmed that the data existed but had not been extracted correctly.
+- Aggregation ambiguity — One EPD described multiple product variants across multiple batching plants. Instead of forcing them into a single comparable product, I changed the ingestion and extraction strategy to create separate products while preserving their provenance.
+
+Every extracted carbon figure is linked back to its source EPD. When I wasn't confident about a value,
+I preferred marking it as unavailable or not comparable rather than inventing or inferring data.
+In this assessment, preserving data integrity was more important than maximizing completeness.
+
+The final model/architecture looks like:
+
+> PDFs ---[static parse]--> MDs ---[ingest to]--> LLM wiki ---[extract to]--> JSONs ---[feed to]--> App
+
 ## Timeline
 
 Jun 30:
