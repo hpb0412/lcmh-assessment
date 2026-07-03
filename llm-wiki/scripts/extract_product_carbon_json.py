@@ -34,6 +34,9 @@ NOT_COMPARABLE_PRODUCTS = {
     "hallett_group_ready_mix_concrete_products": "multiple product- and plant-specific values",
 }
 
+HALLETT_PARENT_ID = "hallett_group_ready_mix_concrete_products"
+HALLETT_MATRIX_PAGE = Path("wiki/facilities/hallett_product_plant_matrix.md")
+
 
 def split_row(line: str) -> list[str]:
     return [cell.strip() for cell in line.strip().strip("|").split("|")]
@@ -45,6 +48,11 @@ def citation_cell(cell: str) -> str:
 
 def clean_value(cell: str) -> str:
     return re.sub(r"\s*\[cite:[^\]]+\]", "", cell).strip()
+
+
+def slugify(value: str) -> str:
+    slug = re.sub(r"[^a-z0-9]+", "_", value.lower()).strip("_")
+    return slug or "unknown"
 
 
 def parse_tables(text: str) -> list[tuple[list[str], list[list[str]]]]:
@@ -258,6 +266,25 @@ def add_stage(
     carbon.append(entry)
 
 
+def carbon_from_a1a3_variant(
+    value: str,
+    unit: str,
+    citation: str,
+    matrix: dict[str, dict[str, str]],
+) -> list[dict[str, object]]:
+    carbon: list[dict[str, object]] = []
+    for stage in STAGES:
+        if stage == "A1-A3":
+            add_stage(carbon, stage, "Declared", citation, "GWPt", value, unit)
+            continue
+
+        module_status = matrix.get(stage, {})
+        status = "Not Available" if module_status.get("status") == "Declared" else "Not Declared"
+        add_stage(carbon, stage, status, module_status.get("citation", ""), "GWPt")
+
+    return carbon
+
+
 def build_carbon(
     text: str,
     page_id: str,
@@ -347,6 +374,108 @@ def raw_source_map(root: Path) -> dict[str, str]:
     return source_by_page
 
 
+def hallett_variant_products(
+    root: Path,
+    source_by_page: dict[str, str],
+) -> list[dict[str, object]]:
+    parent_path = root / "wiki/products/hallett_group_ready_mix_concrete_products.md"
+    matrix_path = root / HALLETT_MATRIX_PAGE
+    if not parent_path.exists() or not matrix_path.exists():
+        return []
+
+    parent_text = parent_path.read_text()
+    parent_snapshot = product_snapshot(parent_text)
+    lifecycle = parent_snapshot.get("Lifecycle Scope", {"value": "", "citation": ""})
+    declared_unit = parent_snapshot.get("Declared Unit", {"value": "", "citation": ""})
+    manufacturer = parent_snapshot.get("Manufacturer", {"value": "", "citation": ""})
+    registration = parent_snapshot.get("EPD Registration Number", {"value": "", "citation": ""})
+    module_statuses = module_matrix(parent_text)
+
+    products: list[dict[str, object]] = []
+    for header, rows in parse_tables(matrix_path.read_text()):
+        if header[:9] != [
+            "Batching Plant",
+            "Product / Mix",
+            "Variant",
+            "Strength",
+            "Density",
+            "A1-A3 GWPt",
+            "Unit / Status",
+            "Source Product",
+            "Cite",
+        ]:
+            continue
+
+        indexes = {name: header.index(name) for name in header}
+        for row in rows:
+            if len(row) < len(header):
+                continue
+
+            plant = clean_value(row[indexes["Batching Plant"]])
+            mix = clean_value(row[indexes["Product / Mix"]])
+            variant = clean_value(row[indexes["Variant"]])
+            strength = clean_value(row[indexes["Strength"]])
+            density = clean_value(row[indexes["Density"]])
+            gwpt = clean_value(row[indexes["A1-A3 GWPt"]])
+            unit_status = clean_value(row[indexes["Unit / Status"]])
+            cite = citation_cell(row[indexes["Cite"]])
+
+            gate = " ".join([gwpt, strength, density, unit_status]).lower()
+            if "needs manual confirmation" in gate:
+                continue
+            if parse_number(gwpt) is None:
+                continue
+
+            value_mpa = compressive_strength_mpa(strength)
+            if value_mpa is None:
+                continue
+
+            product_label = f"{mix} {variant}".strip()
+            if variant in {"", "-"}:
+                product_label = mix
+
+            product_id = "_".join(
+                [
+                    "hallett",
+                    slugify(mix),
+                    slugify(variant) if variant not in {"", "-"} else "",
+                    slugify(plant),
+                ]
+            )
+            product_id = re.sub(r"_+", "_", product_id).strip("_")
+
+            products.append(
+                {
+                    "id": product_id,
+                    "parentProductId": HALLETT_PARENT_ID,
+                    "productName": {
+                        "value": product_label,
+                        "citation": cite,
+                    },
+                    "manufacturer": manufacturer,
+                    "epdRegistrationNumber": registration,
+                    "canonicalProductPage": f"wiki/products/{parent_path.name}",
+                    "rawSource": source_by_page.get(HALLETT_PARENT_ID, ""),
+                    "declaredUnit": declared_unit,
+                    "compressiveStrength": {
+                        "raw": strength,
+                        "citation": cite,
+                        "valueMpa": value_mpa,
+                    },
+                    "manufacturingLocation": {
+                        "raw": plant,
+                        "searchableText": plant.lower(),
+                        "citation": cite,
+                    },
+                    "lifecycleScope": lifecycle,
+                    "carbon": carbon_from_a1a3_variant(gwpt, unit_status, cite, module_statuses),
+                    "comparabilityFlags": [],
+                }
+            )
+
+    return products
+
+
 def build_products(root: Path) -> list[dict[str, object]]:
     source_by_page = raw_source_map(root)
     product_files = sorted(
@@ -357,6 +486,9 @@ def build_products(root: Path) -> list[dict[str, object]]:
     for path in product_files:
         text = path.read_text()
         page_id = path.stem
+        if page_id == HALLETT_PARENT_ID:
+            continue
+
         snapshot = product_snapshot(text)
         carbon, flags = build_carbon(text, page_id, snapshot)
 
@@ -391,6 +523,8 @@ def build_products(root: Path) -> list[dict[str, object]]:
             record["compressiveStrength"]["valueMpa"] = value_mpa  # type: ignore[index]
 
         products.append(record)
+
+    products.extend(hallett_variant_products(root, source_by_page))
 
     return sorted(products, key=lambda product: str(product["id"]))
 
@@ -481,6 +615,10 @@ def validate(products: list[dict[str, object]]) -> None:
         product_id = product["id"]
         if not product.get("canonicalProductPage") or not product.get("rawSource"):
             errors.append(f"{product_id}: missing canonicalProductPage/rawSource")
+
+        strength = product.get("compressiveStrength", {})
+        if isinstance(strength, dict) and "valueMpa" not in strength:
+            errors.append(f"{product_id}: missing compressiveStrength.valueMpa")
 
         for carbon in product["carbon"]:  # type: ignore[index]
             if carbon["status"] == "Declared" and not all(

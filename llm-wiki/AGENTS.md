@@ -50,6 +50,11 @@ The listed relationship folders are required baseline indexes, not a closed taxo
 5. **No Math/Conversions**: Preserve raw strings and units exactly as written in the LiteParse Markdown text (for example, keep `psi` if written as `psi`). Do not calculate, convert, round, or normalize numeric values unless the source already provides the normalized value.
 6. **Index-First Retrieval**: For information retrieval, read `wiki/index.md` first; then use folder indexes, `wiki/products/index.md`, or `wiki/sources/index.md` to route. Read derived relationship pages for cross-cutting facts. Read canonical product evidence pages only when detailed source-backed facts are needed. Read raw Markdown only for ingestion, citation repair, contradiction checks, or missing source validation.
 7. **Lossless Product Evidence, Compact Retrieval**: Do not slim canonical product evidence pages by deleting cited facts. Optimize the wiki by adding compact snapshots, indexes, relationship pages, and extraction-profile pages rather than by removing evidence.
+8. **Comparable Variant Extraction**: If one EPD declares multiple product variants, strengths, facilities, batching plants, or product/plant-specific carbon values, do not leave the wiki with only an aggregate "multiple values" retrieval surface. Keep one exhaustive aggregate canonical product page, but add a cited compact matrix page that exposes every confidently aligned comparable variant row needed by downstream app extraction.
+   * A comparable variant row must identify the product or mix code, variant, strength, facility or batching plant, declared carbon metric, unit/status, source product page, and raw citation.
+   * For app-facing extraction, one comparable row should represent one product variant at one manufacturing location with one declared carbon value.
+   * Preserve ambiguous LiteParse fragments in the canonical page or matrix as `Needs manual confirmation`; do not treat them as comparable app rows until manually confirmed.
+   * Avoid relying on shallow aggregate phrases such as `Multiple product grades` or combined multi-site locations as the only representation when source tables provide variant-level evidence.
 
 ---
 

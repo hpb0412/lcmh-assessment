@@ -11,6 +11,16 @@
   ],
   "compressiveStrengthClasses": [
     {
+      "raw": "10 MPa",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l202] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l823-l832]",
+      "valueMpa": 10.0
+    },
+    {
+      "raw": "20 MPa",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l224-l228] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l806-l812]",
+      "valueMpa": 20.0
+    },
+    {
       "raw": "25 MPa",
       "citation": "[cite:epd-ies-0021165-sn252f100-llamaparse_p32_l1662-l1663]",
       "valueMpa": 25.0
@@ -21,9 +31,19 @@
       "valueMpa": 25.0
     },
     {
+      "raw": "32 MPa",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l261] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l823-l832]",
+      "valueMpa": 32.0
+    },
+    {
       "raw": "S32MPa",
       "citation": "[cite:epd-ies-0023043-s32mpa-greencrete-70_p3_l102-l107]",
       "valueMpa": 32.0
+    },
+    {
+      "raw": "40 MPa",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l202-l206] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1264-l1271]",
+      "valueMpa": 40.0
     },
     {
       "raw": "40MPa",
@@ -36,14 +56,14 @@
       "valueMpa": 40.0
     },
     {
-      "raw": "50MPa",
-      "citation": "[cite:EPD_HUB-5943_2026-06-27_en_l53]",
+      "raw": "50 MPa",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l250-l251] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1264-l1271]",
       "valueMpa": 50.0
     },
     {
-      "raw": "Multiple product grades including 10, 15, 20, 25, 32, 40, 50, 65, and 80 MPa",
-      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l196-l293]",
-      "valueMpa": 80.0
+      "raw": "50MPa",
+      "citation": "[cite:EPD_HUB-5943_2026-06-27_en_l53]",
+      "valueMpa": 50.0
     }
   ],
   "manufacturingLocations": [
@@ -63,9 +83,14 @@
       "citation": "[cite:epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf_l416-l420]"
     },
     {
-      "raw": "Dry Creek, Elizabeth, Mile End, McLaren Vale, and Osborne batching plants around South Australia",
-      "searchableText": "dry creek, elizabeth, mile end, mclaren vale, and osborne batching plants around south australia",
-      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l39]"
+      "raw": "Dry Creek",
+      "searchableText": "dry creek",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l224-l228] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l806-l812]"
+    },
+    {
+      "raw": "Elizabeth",
+      "searchableText": "elizabeth",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l224-l228] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1071-l1077]"
     },
     {
       "raw": "Hunter Valley, NSW, Australia",
@@ -73,9 +98,24 @@
       "citation": "[cite:EPD_HUB-5991_2026-06-27_en_l47]"
     },
     {
+      "raw": "McLaren Vale",
+      "searchableText": "mclaren vale",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l224-l228] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1661-l1667]"
+    },
+    {
       "raw": "Melbourne",
       "searchableText": "melbourne",
       "citation": "[cite:EPD_HUB-5882_2026-06-27_en_l71-l73]"
+    },
+    {
+      "raw": "Mile End",
+      "searchableText": "mile end",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l222-l226] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1214-l1221]"
+    },
+    {
+      "raw": "Osborne",
+      "searchableText": "osborne",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l224-l228] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1804-l1810]"
     },
     {
       "raw": "Rockbank, Melbourne, Victoria",
@@ -91,71 +131,71 @@
   "lifecycleStages": [
     {
       "stage": "A1-A3",
-      "declaredCount": 8,
+      "declaredCount": 28,
       "notDeclaredCount": 0,
       "notAvailableCount": 0,
-      "notComparableCount": 1
+      "notComparableCount": 0
     },
     {
       "stage": "A4",
       "declaredCount": 5,
-      "notDeclaredCount": 4,
+      "notDeclaredCount": 23,
       "notAvailableCount": 0,
       "notComparableCount": 0
     },
     {
       "stage": "A5",
       "declaredCount": 4,
-      "notDeclaredCount": 4,
+      "notDeclaredCount": 23,
       "notAvailableCount": 1,
       "notComparableCount": 0
     },
     {
       "stage": "B1",
       "declaredCount": 0,
-      "notDeclaredCount": 9,
+      "notDeclaredCount": 28,
       "notAvailableCount": 0,
       "notComparableCount": 0
     },
     {
       "stage": "B2",
       "declaredCount": 0,
-      "notDeclaredCount": 9,
+      "notDeclaredCount": 28,
       "notAvailableCount": 0,
       "notComparableCount": 0
     },
     {
       "stage": "B3",
       "declaredCount": 0,
-      "notDeclaredCount": 9,
+      "notDeclaredCount": 28,
       "notAvailableCount": 0,
       "notComparableCount": 0
     },
     {
       "stage": "B4",
       "declaredCount": 0,
-      "notDeclaredCount": 9,
+      "notDeclaredCount": 28,
       "notAvailableCount": 0,
       "notComparableCount": 0
     },
     {
       "stage": "B5",
       "declaredCount": 0,
-      "notDeclaredCount": 9,
+      "notDeclaredCount": 28,
       "notAvailableCount": 0,
       "notComparableCount": 0
     },
     {
       "stage": "B6",
       "declaredCount": 0,
-      "notDeclaredCount": 9,
+      "notDeclaredCount": 28,
       "notAvailableCount": 0,
       "notComparableCount": 0
     },
     {
       "stage": "B7",
       "declaredCount": 0,
-      "notDeclaredCount": 9,
+      "notDeclaredCount": 28,
       "notAvailableCount": 0,
       "notComparableCount": 0
     },
@@ -163,36 +203,36 @@
       "stage": "C1",
       "declaredCount": 7,
       "notDeclaredCount": 0,
-      "notAvailableCount": 1,
-      "notComparableCount": 1
+      "notAvailableCount": 21,
+      "notComparableCount": 0
     },
     {
       "stage": "C2",
       "declaredCount": 7,
       "notDeclaredCount": 0,
-      "notAvailableCount": 1,
-      "notComparableCount": 1
+      "notAvailableCount": 21,
+      "notComparableCount": 0
     },
     {
       "stage": "C3",
       "declaredCount": 7,
       "notDeclaredCount": 0,
-      "notAvailableCount": 1,
-      "notComparableCount": 1
+      "notAvailableCount": 21,
+      "notComparableCount": 0
     },
     {
       "stage": "C4",
       "declaredCount": 7,
       "notDeclaredCount": 0,
-      "notAvailableCount": 1,
-      "notComparableCount": 1
+      "notAvailableCount": 21,
+      "notComparableCount": 0
     },
     {
       "stage": "D",
       "declaredCount": 7,
       "notDeclaredCount": 0,
-      "notAvailableCount": 1,
-      "notComparableCount": 1
+      "notAvailableCount": 21,
+      "notComparableCount": 0
     }
   ]
 }

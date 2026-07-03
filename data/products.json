@@ -732,10 +732,11 @@
     "comparabilityFlags": []
   },
   {
-    "id": "hallett_group_ready_mix_concrete_products",
+    "id": "hallett_n2020p_f30_dry_creek",
+    "parentProductId": "hallett_group_ready_mix_concrete_products",
     "productName": {
-      "value": "READY MIX CONCRETE PRODUCTS",
-      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l3-l5]"
+      "value": "N2020P F30",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l224-l228] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l806-l812]"
     },
     "manufacturer": {
       "value": "Hallett Group Pty Ltd",
@@ -752,14 +753,14 @@
       "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l399-l407]"
     },
     "compressiveStrength": {
-      "raw": "Multiple product grades including 10, 15, 20, 25, 32, 40, 50, 65, and 80 MPa",
-      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l196-l293]",
-      "valueMpa": 80.0
+      "raw": "20 MPa",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l224-l228] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l806-l812]",
+      "valueMpa": 20.0
     },
     "manufacturingLocation": {
-      "raw": "Dry Creek, Elizabeth, Mile End, McLaren Vale, and Osborne batching plants around South Australia",
-      "searchableText": "dry creek, elizabeth, mile end, mclaren vale, and osborne batching plants around south australia",
-      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l39]"
+      "raw": "Dry Creek",
+      "searchableText": "dry creek",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l224-l228] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l806-l812]"
     },
     "lifecycleScope": {
       "value": "cradle-to-gate with modules C1-C4 and module D",
@@ -768,98 +769,2607 @@
     "carbon": [
       {
         "stage": "A1-A3",
-        "status": "Not Comparable",
-        "indicator": "GWP-Total",
-        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l802-l821] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1210-l1297]"
+        "status": "Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l224-l228] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l806-l812]",
+        "valueRaw": "203",
+        "valueNumber": 203.0,
+        "unit": "kg CO2-eq"
       },
       {
         "stage": "A4",
         "status": "Not Declared",
-        "indicator": "GWP-Total",
+        "indicator": "GWPt",
         "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
       },
       {
         "stage": "A5",
         "status": "Not Declared",
-        "indicator": "GWP-Total",
+        "indicator": "GWPt",
         "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
       },
       {
         "stage": "B1",
         "status": "Not Declared",
-        "indicator": "GWP-Total",
+        "indicator": "GWPt",
         "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
       },
       {
         "stage": "B2",
         "status": "Not Declared",
-        "indicator": "GWP-Total",
+        "indicator": "GWPt",
         "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
       },
       {
         "stage": "B3",
         "status": "Not Declared",
-        "indicator": "GWP-Total",
+        "indicator": "GWPt",
         "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
       },
       {
         "stage": "B4",
         "status": "Not Declared",
-        "indicator": "GWP-Total",
+        "indicator": "GWPt",
         "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
       },
       {
         "stage": "B5",
         "status": "Not Declared",
-        "indicator": "GWP-Total",
+        "indicator": "GWPt",
         "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
       },
       {
         "stage": "B6",
         "status": "Not Declared",
-        "indicator": "GWP-Total",
+        "indicator": "GWPt",
         "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
       },
       {
         "stage": "B7",
         "status": "Not Declared",
-        "indicator": "GWP-Total",
+        "indicator": "GWPt",
         "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
       },
       {
         "stage": "C1",
-        "status": "Not Comparable",
-        "indicator": "GWP-Total",
+        "status": "Not Available",
+        "indicator": "GWPt",
         "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
       },
       {
         "stage": "C2",
-        "status": "Not Comparable",
-        "indicator": "GWP-Total",
+        "status": "Not Available",
+        "indicator": "GWPt",
         "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
       },
       {
         "stage": "C3",
-        "status": "Not Comparable",
-        "indicator": "GWP-Total",
+        "status": "Not Available",
+        "indicator": "GWPt",
         "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
       },
       {
         "stage": "C4",
-        "status": "Not Comparable",
-        "indicator": "GWP-Total",
+        "status": "Not Available",
+        "indicator": "GWPt",
         "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
       },
       {
         "stage": "D",
-        "status": "Not Comparable",
-        "indicator": "GWP-Total",
+        "status": "Not Available",
+        "indicator": "GWPt",
         "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
       }
     ],
-    "comparabilityFlags": [
-      "multiple product- and plant-specific values"
-    ]
+    "comparabilityFlags": []
+  },
+  {
+    "id": "hallett_n2020p_f30_elizabeth",
+    "parentProductId": "hallett_group_ready_mix_concrete_products",
+    "productName": {
+      "value": "N2020P F30",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l224-l228] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1071-l1077]"
+    },
+    "manufacturer": {
+      "value": "Hallett Group Pty Ltd",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l2050]"
+    },
+    "epdRegistrationNumber": {
+      "value": "EPD-IES-0009353:003",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l11]"
+    },
+    "canonicalProductPage": "wiki/products/hallett_group_ready_mix_concrete_products.md",
+    "rawSource": "raw/epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf.md",
+    "declaredUnit": {
+      "value": "1 m3 of Ready Mix concrete at the batching plant gate which is purchased by the customer and is paid for.",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l399-l407]"
+    },
+    "compressiveStrength": {
+      "raw": "20 MPa",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l224-l228] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1071-l1077]",
+      "valueMpa": 20.0
+    },
+    "manufacturingLocation": {
+      "raw": "Elizabeth",
+      "searchableText": "elizabeth",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l224-l228] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1071-l1077]"
+    },
+    "lifecycleScope": {
+      "value": "cradle-to-gate with modules C1-C4 and module D",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l39]"
+    },
+    "carbon": [
+      {
+        "stage": "A1-A3",
+        "status": "Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l224-l228] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1071-l1077]",
+        "valueRaw": "209",
+        "valueNumber": 209.0,
+        "unit": "kg CO2-eq"
+      },
+      {
+        "stage": "A4",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "A5",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B1",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B2",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B3",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B4",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B5",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B6",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B7",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C1",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C2",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C3",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C4",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "D",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      }
+    ],
+    "comparabilityFlags": []
+  },
+  {
+    "id": "hallett_n2020p_f30_mclaren_vale",
+    "parentProductId": "hallett_group_ready_mix_concrete_products",
+    "productName": {
+      "value": "N2020P F30",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l224-l228] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1661-l1667]"
+    },
+    "manufacturer": {
+      "value": "Hallett Group Pty Ltd",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l2050]"
+    },
+    "epdRegistrationNumber": {
+      "value": "EPD-IES-0009353:003",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l11]"
+    },
+    "canonicalProductPage": "wiki/products/hallett_group_ready_mix_concrete_products.md",
+    "rawSource": "raw/epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf.md",
+    "declaredUnit": {
+      "value": "1 m3 of Ready Mix concrete at the batching plant gate which is purchased by the customer and is paid for.",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l399-l407]"
+    },
+    "compressiveStrength": {
+      "raw": "20 MPa",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l224-l228] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1661-l1667]",
+      "valueMpa": 20.0
+    },
+    "manufacturingLocation": {
+      "raw": "McLaren Vale",
+      "searchableText": "mclaren vale",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l224-l228] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1661-l1667]"
+    },
+    "lifecycleScope": {
+      "value": "cradle-to-gate with modules C1-C4 and module D",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l39]"
+    },
+    "carbon": [
+      {
+        "stage": "A1-A3",
+        "status": "Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l224-l228] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1661-l1667]",
+        "valueRaw": "201",
+        "valueNumber": 201.0,
+        "unit": "kg CO2-eq"
+      },
+      {
+        "stage": "A4",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "A5",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B1",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B2",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B3",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B4",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B5",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B6",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B7",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C1",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C2",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C3",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C4",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "D",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      }
+    ],
+    "comparabilityFlags": []
+  },
+  {
+    "id": "hallett_n2020p_f30_osborne",
+    "parentProductId": "hallett_group_ready_mix_concrete_products",
+    "productName": {
+      "value": "N2020P F30",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l224-l228] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1804-l1810]"
+    },
+    "manufacturer": {
+      "value": "Hallett Group Pty Ltd",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l2050]"
+    },
+    "epdRegistrationNumber": {
+      "value": "EPD-IES-0009353:003",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l11]"
+    },
+    "canonicalProductPage": "wiki/products/hallett_group_ready_mix_concrete_products.md",
+    "rawSource": "raw/epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf.md",
+    "declaredUnit": {
+      "value": "1 m3 of Ready Mix concrete at the batching plant gate which is purchased by the customer and is paid for.",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l399-l407]"
+    },
+    "compressiveStrength": {
+      "raw": "20 MPa",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l224-l228] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1804-l1810]",
+      "valueMpa": 20.0
+    },
+    "manufacturingLocation": {
+      "raw": "Osborne",
+      "searchableText": "osborne",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l224-l228] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1804-l1810]"
+    },
+    "lifecycleScope": {
+      "value": "cradle-to-gate with modules C1-C4 and module D",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l39]"
+    },
+    "carbon": [
+      {
+        "stage": "A1-A3",
+        "status": "Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l224-l228] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1804-l1810]",
+        "valueRaw": "207",
+        "valueNumber": 207.0,
+        "unit": "kg CO2-eq"
+      },
+      {
+        "stage": "A4",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "A5",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B1",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B2",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B3",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B4",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B5",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B6",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B7",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C1",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C2",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C3",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C4",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "D",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      }
+    ],
+    "comparabilityFlags": []
+  },
+  {
+    "id": "hallett_n2020p_ref_dry_creek",
+    "parentProductId": "hallett_group_ready_mix_concrete_products",
+    "productName": {
+      "value": "N2020P Ref",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l222-l226] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l806-l812]"
+    },
+    "manufacturer": {
+      "value": "Hallett Group Pty Ltd",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l2050]"
+    },
+    "epdRegistrationNumber": {
+      "value": "EPD-IES-0009353:003",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l11]"
+    },
+    "canonicalProductPage": "wiki/products/hallett_group_ready_mix_concrete_products.md",
+    "rawSource": "raw/epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf.md",
+    "declaredUnit": {
+      "value": "1 m3 of Ready Mix concrete at the batching plant gate which is purchased by the customer and is paid for.",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l399-l407]"
+    },
+    "compressiveStrength": {
+      "raw": "20 MPa",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l222-l226] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l806-l812]",
+      "valueMpa": 20.0
+    },
+    "manufacturingLocation": {
+      "raw": "Dry Creek",
+      "searchableText": "dry creek",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l222-l226] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l806-l812]"
+    },
+    "lifecycleScope": {
+      "value": "cradle-to-gate with modules C1-C4 and module D",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l39]"
+    },
+    "carbon": [
+      {
+        "stage": "A1-A3",
+        "status": "Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l222-l226] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l806-l812]",
+        "valueRaw": "275",
+        "valueNumber": 275.0,
+        "unit": "kg CO2-eq"
+      },
+      {
+        "stage": "A4",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "A5",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B1",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B2",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B3",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B4",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B5",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B6",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B7",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C1",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C2",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C3",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C4",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "D",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      }
+    ],
+    "comparabilityFlags": []
+  },
+  {
+    "id": "hallett_n2020p_ref_elizabeth",
+    "parentProductId": "hallett_group_ready_mix_concrete_products",
+    "productName": {
+      "value": "N2020P Ref",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l222-l226] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1071-l1077]"
+    },
+    "manufacturer": {
+      "value": "Hallett Group Pty Ltd",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l2050]"
+    },
+    "epdRegistrationNumber": {
+      "value": "EPD-IES-0009353:003",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l11]"
+    },
+    "canonicalProductPage": "wiki/products/hallett_group_ready_mix_concrete_products.md",
+    "rawSource": "raw/epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf.md",
+    "declaredUnit": {
+      "value": "1 m3 of Ready Mix concrete at the batching plant gate which is purchased by the customer and is paid for.",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l399-l407]"
+    },
+    "compressiveStrength": {
+      "raw": "20 MPa",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l222-l226] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1071-l1077]",
+      "valueMpa": 20.0
+    },
+    "manufacturingLocation": {
+      "raw": "Elizabeth",
+      "searchableText": "elizabeth",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l222-l226] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1071-l1077]"
+    },
+    "lifecycleScope": {
+      "value": "cradle-to-gate with modules C1-C4 and module D",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l39]"
+    },
+    "carbon": [
+      {
+        "stage": "A1-A3",
+        "status": "Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l222-l226] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1071-l1077]",
+        "valueRaw": "281",
+        "valueNumber": 281.0,
+        "unit": "kg CO2-eq"
+      },
+      {
+        "stage": "A4",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "A5",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B1",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B2",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B3",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B4",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B5",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B6",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B7",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C1",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C2",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C3",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C4",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "D",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      }
+    ],
+    "comparabilityFlags": []
+  },
+  {
+    "id": "hallett_n2020p_ref_mclaren_vale",
+    "parentProductId": "hallett_group_ready_mix_concrete_products",
+    "productName": {
+      "value": "N2020P Ref",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l222-l226] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1661-l1667]"
+    },
+    "manufacturer": {
+      "value": "Hallett Group Pty Ltd",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l2050]"
+    },
+    "epdRegistrationNumber": {
+      "value": "EPD-IES-0009353:003",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l11]"
+    },
+    "canonicalProductPage": "wiki/products/hallett_group_ready_mix_concrete_products.md",
+    "rawSource": "raw/epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf.md",
+    "declaredUnit": {
+      "value": "1 m3 of Ready Mix concrete at the batching plant gate which is purchased by the customer and is paid for.",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l399-l407]"
+    },
+    "compressiveStrength": {
+      "raw": "20 MPa",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l222-l226] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1661-l1667]",
+      "valueMpa": 20.0
+    },
+    "manufacturingLocation": {
+      "raw": "McLaren Vale",
+      "searchableText": "mclaren vale",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l222-l226] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1661-l1667]"
+    },
+    "lifecycleScope": {
+      "value": "cradle-to-gate with modules C1-C4 and module D",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l39]"
+    },
+    "carbon": [
+      {
+        "stage": "A1-A3",
+        "status": "Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l222-l226] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1661-l1667]",
+        "valueRaw": "273",
+        "valueNumber": 273.0,
+        "unit": "kg CO2-eq"
+      },
+      {
+        "stage": "A4",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "A5",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B1",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B2",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B3",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B4",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B5",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B6",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B7",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C1",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C2",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C3",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C4",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "D",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      }
+    ],
+    "comparabilityFlags": []
+  },
+  {
+    "id": "hallett_n2020p_ref_mile_end",
+    "parentProductId": "hallett_group_ready_mix_concrete_products",
+    "productName": {
+      "value": "N2020P Ref",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l222-l226] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1214-l1221]"
+    },
+    "manufacturer": {
+      "value": "Hallett Group Pty Ltd",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l2050]"
+    },
+    "epdRegistrationNumber": {
+      "value": "EPD-IES-0009353:003",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l11]"
+    },
+    "canonicalProductPage": "wiki/products/hallett_group_ready_mix_concrete_products.md",
+    "rawSource": "raw/epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf.md",
+    "declaredUnit": {
+      "value": "1 m3 of Ready Mix concrete at the batching plant gate which is purchased by the customer and is paid for.",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l399-l407]"
+    },
+    "compressiveStrength": {
+      "raw": "20 MPa",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l222-l226] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1214-l1221]",
+      "valueMpa": 20.0
+    },
+    "manufacturingLocation": {
+      "raw": "Mile End",
+      "searchableText": "mile end",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l222-l226] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1214-l1221]"
+    },
+    "lifecycleScope": {
+      "value": "cradle-to-gate with modules C1-C4 and module D",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l39]"
+    },
+    "carbon": [
+      {
+        "stage": "A1-A3",
+        "status": "Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l222-l226] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1214-l1221]",
+        "valueRaw": "266",
+        "valueNumber": 266.0,
+        "unit": "kg CO2-eq"
+      },
+      {
+        "stage": "A4",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "A5",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B1",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B2",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B3",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B4",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B5",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B6",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B7",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C1",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C2",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C3",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C4",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "D",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      }
+    ],
+    "comparabilityFlags": []
+  },
+  {
+    "id": "hallett_n2020p_ref_osborne",
+    "parentProductId": "hallett_group_ready_mix_concrete_products",
+    "productName": {
+      "value": "N2020P Ref",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l222-l226] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1804-l1810]"
+    },
+    "manufacturer": {
+      "value": "Hallett Group Pty Ltd",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l2050]"
+    },
+    "epdRegistrationNumber": {
+      "value": "EPD-IES-0009353:003",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l11]"
+    },
+    "canonicalProductPage": "wiki/products/hallett_group_ready_mix_concrete_products.md",
+    "rawSource": "raw/epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf.md",
+    "declaredUnit": {
+      "value": "1 m3 of Ready Mix concrete at the batching plant gate which is purchased by the customer and is paid for.",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l399-l407]"
+    },
+    "compressiveStrength": {
+      "raw": "20 MPa",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l222-l226] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1804-l1810]",
+      "valueMpa": 20.0
+    },
+    "manufacturingLocation": {
+      "raw": "Osborne",
+      "searchableText": "osborne",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l222-l226] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1804-l1810]"
+    },
+    "lifecycleScope": {
+      "value": "cradle-to-gate with modules C1-C4 and module D",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l39]"
+    },
+    "carbon": [
+      {
+        "stage": "A1-A3",
+        "status": "Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l222-l226] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1804-l1810]",
+        "valueRaw": "278",
+        "valueNumber": 278.0,
+        "unit": "kg CO2-eq"
+      },
+      {
+        "stage": "A4",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "A5",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B1",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B2",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B3",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B4",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B5",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B6",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B7",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C1",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C2",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C3",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C4",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "D",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      }
+    ],
+    "comparabilityFlags": []
+  },
+  {
+    "id": "hallett_n2520p_ref_dry_creek",
+    "parentProductId": "hallett_group_ready_mix_concrete_products",
+    "productName": {
+      "value": "N2520P Ref",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l231-l237] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l806-l812]"
+    },
+    "manufacturer": {
+      "value": "Hallett Group Pty Ltd",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l2050]"
+    },
+    "epdRegistrationNumber": {
+      "value": "EPD-IES-0009353:003",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l11]"
+    },
+    "canonicalProductPage": "wiki/products/hallett_group_ready_mix_concrete_products.md",
+    "rawSource": "raw/epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf.md",
+    "declaredUnit": {
+      "value": "1 m3 of Ready Mix concrete at the batching plant gate which is purchased by the customer and is paid for.",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l399-l407]"
+    },
+    "compressiveStrength": {
+      "raw": "25 MPa",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l231-l237] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l806-l812]",
+      "valueMpa": 25.0
+    },
+    "manufacturingLocation": {
+      "raw": "Dry Creek",
+      "searchableText": "dry creek",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l231-l237] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l806-l812]"
+    },
+    "lifecycleScope": {
+      "value": "cradle-to-gate with modules C1-C4 and module D",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l39]"
+    },
+    "carbon": [
+      {
+        "stage": "A1-A3",
+        "status": "Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l231-l237] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l806-l812]",
+        "valueRaw": "301",
+        "valueNumber": 301.0,
+        "unit": "kg CO2-eq"
+      },
+      {
+        "stage": "A4",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "A5",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B1",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B2",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B3",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B4",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B5",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B6",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B7",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C1",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C2",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C3",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C4",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "D",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      }
+    ],
+    "comparabilityFlags": []
+  },
+  {
+    "id": "hallett_n2520p_ref_elizabeth",
+    "parentProductId": "hallett_group_ready_mix_concrete_products",
+    "productName": {
+      "value": "N2520P Ref",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l231-l237] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1071-l1077]"
+    },
+    "manufacturer": {
+      "value": "Hallett Group Pty Ltd",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l2050]"
+    },
+    "epdRegistrationNumber": {
+      "value": "EPD-IES-0009353:003",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l11]"
+    },
+    "canonicalProductPage": "wiki/products/hallett_group_ready_mix_concrete_products.md",
+    "rawSource": "raw/epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf.md",
+    "declaredUnit": {
+      "value": "1 m3 of Ready Mix concrete at the batching plant gate which is purchased by the customer and is paid for.",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l399-l407]"
+    },
+    "compressiveStrength": {
+      "raw": "25 MPa",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l231-l237] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1071-l1077]",
+      "valueMpa": 25.0
+    },
+    "manufacturingLocation": {
+      "raw": "Elizabeth",
+      "searchableText": "elizabeth",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l231-l237] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1071-l1077]"
+    },
+    "lifecycleScope": {
+      "value": "cradle-to-gate with modules C1-C4 and module D",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l39]"
+    },
+    "carbon": [
+      {
+        "stage": "A1-A3",
+        "status": "Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l231-l237] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1071-l1077]",
+        "valueRaw": "306",
+        "valueNumber": 306.0,
+        "unit": "kg CO2-eq"
+      },
+      {
+        "stage": "A4",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "A5",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B1",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B2",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B3",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B4",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B5",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B6",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B7",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C1",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C2",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C3",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C4",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "D",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      }
+    ],
+    "comparabilityFlags": []
+  },
+  {
+    "id": "hallett_n2520p_ref_mclaren_vale",
+    "parentProductId": "hallett_group_ready_mix_concrete_products",
+    "productName": {
+      "value": "N2520P Ref",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l231-l237] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1661-l1667]"
+    },
+    "manufacturer": {
+      "value": "Hallett Group Pty Ltd",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l2050]"
+    },
+    "epdRegistrationNumber": {
+      "value": "EPD-IES-0009353:003",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l11]"
+    },
+    "canonicalProductPage": "wiki/products/hallett_group_ready_mix_concrete_products.md",
+    "rawSource": "raw/epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf.md",
+    "declaredUnit": {
+      "value": "1 m3 of Ready Mix concrete at the batching plant gate which is purchased by the customer and is paid for.",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l399-l407]"
+    },
+    "compressiveStrength": {
+      "raw": "25 MPa",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l231-l237] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1661-l1667]",
+      "valueMpa": 25.0
+    },
+    "manufacturingLocation": {
+      "raw": "McLaren Vale",
+      "searchableText": "mclaren vale",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l231-l237] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1661-l1667]"
+    },
+    "lifecycleScope": {
+      "value": "cradle-to-gate with modules C1-C4 and module D",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l39]"
+    },
+    "carbon": [
+      {
+        "stage": "A1-A3",
+        "status": "Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l231-l237] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1661-l1667]",
+        "valueRaw": "298",
+        "valueNumber": 298.0,
+        "unit": "kg CO2-eq"
+      },
+      {
+        "stage": "A4",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "A5",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B1",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B2",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B3",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B4",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B5",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B6",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B7",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C1",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C2",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C3",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C4",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "D",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      }
+    ],
+    "comparabilityFlags": []
+  },
+  {
+    "id": "hallett_n2520p_ref_osborne",
+    "parentProductId": "hallett_group_ready_mix_concrete_products",
+    "productName": {
+      "value": "N2520P Ref",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l231-l237] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1804-l1810]"
+    },
+    "manufacturer": {
+      "value": "Hallett Group Pty Ltd",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l2050]"
+    },
+    "epdRegistrationNumber": {
+      "value": "EPD-IES-0009353:003",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l11]"
+    },
+    "canonicalProductPage": "wiki/products/hallett_group_ready_mix_concrete_products.md",
+    "rawSource": "raw/epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf.md",
+    "declaredUnit": {
+      "value": "1 m3 of Ready Mix concrete at the batching plant gate which is purchased by the customer and is paid for.",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l399-l407]"
+    },
+    "compressiveStrength": {
+      "raw": "25 MPa",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l231-l237] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1804-l1810]",
+      "valueMpa": 25.0
+    },
+    "manufacturingLocation": {
+      "raw": "Osborne",
+      "searchableText": "osborne",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l231-l237] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1804-l1810]"
+    },
+    "lifecycleScope": {
+      "value": "cradle-to-gate with modules C1-C4 and module D",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l39]"
+    },
+    "carbon": [
+      {
+        "stage": "A1-A3",
+        "status": "Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l231-l237] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1804-l1810]",
+        "valueRaw": "303",
+        "valueNumber": 303.0,
+        "unit": "kg CO2-eq"
+      },
+      {
+        "stage": "A4",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "A5",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B1",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B2",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B3",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B4",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B5",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B6",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B7",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C1",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C2",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C3",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C4",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "D",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      }
+    ],
+    "comparabilityFlags": []
+  },
+  {
+    "id": "hallett_s1020_plc1_dry_creek",
+    "parentProductId": "hallett_group_ready_mix_concrete_products",
+    "productName": {
+      "value": "S1020 PLC1",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l202] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l823-l832]"
+    },
+    "manufacturer": {
+      "value": "Hallett Group Pty Ltd",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l2050]"
+    },
+    "epdRegistrationNumber": {
+      "value": "EPD-IES-0009353:003",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l11]"
+    },
+    "canonicalProductPage": "wiki/products/hallett_group_ready_mix_concrete_products.md",
+    "rawSource": "raw/epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf.md",
+    "declaredUnit": {
+      "value": "1 m3 of Ready Mix concrete at the batching plant gate which is purchased by the customer and is paid for.",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l399-l407]"
+    },
+    "compressiveStrength": {
+      "raw": "10 MPa",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l202] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l823-l832]",
+      "valueMpa": 10.0
+    },
+    "manufacturingLocation": {
+      "raw": "Dry Creek",
+      "searchableText": "dry creek",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l202] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l823-l832]"
+    },
+    "lifecycleScope": {
+      "value": "cradle-to-gate with modules C1-C4 and module D",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l39]"
+    },
+    "carbon": [
+      {
+        "stage": "A1-A3",
+        "status": "Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l202] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l823-l832]",
+        "valueRaw": "146",
+        "valueNumber": 146.0,
+        "unit": "kg CO2-eq"
+      },
+      {
+        "stage": "A4",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "A5",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B1",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B2",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B3",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B4",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B5",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B6",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B7",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C1",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C2",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C3",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C4",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "D",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      }
+    ],
+    "comparabilityFlags": []
+  },
+  {
+    "id": "hallett_s1020_plc1_mile_end",
+    "parentProductId": "hallett_group_ready_mix_concrete_products",
+    "productName": {
+      "value": "S1020 PLC1",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l202] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1232-l1237]"
+    },
+    "manufacturer": {
+      "value": "Hallett Group Pty Ltd",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l2050]"
+    },
+    "epdRegistrationNumber": {
+      "value": "EPD-IES-0009353:003",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l11]"
+    },
+    "canonicalProductPage": "wiki/products/hallett_group_ready_mix_concrete_products.md",
+    "rawSource": "raw/epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf.md",
+    "declaredUnit": {
+      "value": "1 m3 of Ready Mix concrete at the batching plant gate which is purchased by the customer and is paid for.",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l399-l407]"
+    },
+    "compressiveStrength": {
+      "raw": "10 MPa",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l202] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1232-l1237]",
+      "valueMpa": 10.0
+    },
+    "manufacturingLocation": {
+      "raw": "Mile End",
+      "searchableText": "mile end",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l202] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1232-l1237]"
+    },
+    "lifecycleScope": {
+      "value": "cradle-to-gate with modules C1-C4 and module D",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l39]"
+    },
+    "carbon": [
+      {
+        "stage": "A1-A3",
+        "status": "Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l202] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1232-l1237]",
+        "valueRaw": "139",
+        "valueNumber": 139.0,
+        "unit": "kg CO2-eq"
+      },
+      {
+        "stage": "A4",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "A5",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B1",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B2",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B3",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B4",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B5",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B6",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B7",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C1",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C2",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C3",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C4",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "D",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      }
+    ],
+    "comparabilityFlags": []
+  },
+  {
+    "id": "hallett_s3220_plc2xyp_dry_creek",
+    "parentProductId": "hallett_group_ready_mix_concrete_products",
+    "productName": {
+      "value": "S3220 PLC2XYP",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l261] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l823-l832]"
+    },
+    "manufacturer": {
+      "value": "Hallett Group Pty Ltd",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l2050]"
+    },
+    "epdRegistrationNumber": {
+      "value": "EPD-IES-0009353:003",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l11]"
+    },
+    "canonicalProductPage": "wiki/products/hallett_group_ready_mix_concrete_products.md",
+    "rawSource": "raw/epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf.md",
+    "declaredUnit": {
+      "value": "1 m3 of Ready Mix concrete at the batching plant gate which is purchased by the customer and is paid for.",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l399-l407]"
+    },
+    "compressiveStrength": {
+      "raw": "32 MPa",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l261] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l823-l832]",
+      "valueMpa": 32.0
+    },
+    "manufacturingLocation": {
+      "raw": "Dry Creek",
+      "searchableText": "dry creek",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l261] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l823-l832]"
+    },
+    "lifecycleScope": {
+      "value": "cradle-to-gate with modules C1-C4 and module D",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l39]"
+    },
+    "carbon": [
+      {
+        "stage": "A1-A3",
+        "status": "Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l261] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l823-l832]",
+        "valueRaw": "168",
+        "valueNumber": 168.0,
+        "unit": "kg CO2-eq"
+      },
+      {
+        "stage": "A4",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "A5",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B1",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B2",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B3",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B4",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B5",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B6",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B7",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C1",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C2",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C3",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C4",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "D",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      }
+    ],
+    "comparabilityFlags": []
+  },
+  {
+    "id": "hallett_s3220_plc2xyp_mile_end",
+    "parentProductId": "hallett_group_ready_mix_concrete_products",
+    "productName": {
+      "value": "S3220 PLC2XYP",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l261] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1232-l1237]"
+    },
+    "manufacturer": {
+      "value": "Hallett Group Pty Ltd",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l2050]"
+    },
+    "epdRegistrationNumber": {
+      "value": "EPD-IES-0009353:003",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l11]"
+    },
+    "canonicalProductPage": "wiki/products/hallett_group_ready_mix_concrete_products.md",
+    "rawSource": "raw/epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf.md",
+    "declaredUnit": {
+      "value": "1 m3 of Ready Mix concrete at the batching plant gate which is purchased by the customer and is paid for.",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l399-l407]"
+    },
+    "compressiveStrength": {
+      "raw": "32 MPa",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l261] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1232-l1237]",
+      "valueMpa": 32.0
+    },
+    "manufacturingLocation": {
+      "raw": "Mile End",
+      "searchableText": "mile end",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l261] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1232-l1237]"
+    },
+    "lifecycleScope": {
+      "value": "cradle-to-gate with modules C1-C4 and module D",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l39]"
+    },
+    "carbon": [
+      {
+        "stage": "A1-A3",
+        "status": "Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l261] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1232-l1237]",
+        "valueRaw": "160",
+        "valueNumber": 160.0,
+        "unit": "kg CO2-eq"
+      },
+      {
+        "stage": "A4",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "A5",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B1",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B2",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B3",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B4",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B5",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B6",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B7",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C1",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C2",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C3",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C4",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "D",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      }
+    ],
+    "comparabilityFlags": []
+  },
+  {
+    "id": "hallett_s4020_e2100_mile_end",
+    "parentProductId": "hallett_group_ready_mix_concrete_products",
+    "productName": {
+      "value": "S4020 E2100",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l202-l206] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1264-l1271]"
+    },
+    "manufacturer": {
+      "value": "Hallett Group Pty Ltd",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l2050]"
+    },
+    "epdRegistrationNumber": {
+      "value": "EPD-IES-0009353:003",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l11]"
+    },
+    "canonicalProductPage": "wiki/products/hallett_group_ready_mix_concrete_products.md",
+    "rawSource": "raw/epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf.md",
+    "declaredUnit": {
+      "value": "1 m3 of Ready Mix concrete at the batching plant gate which is purchased by the customer and is paid for.",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l399-l407]"
+    },
+    "compressiveStrength": {
+      "raw": "40 MPa",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l202-l206] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1264-l1271]",
+      "valueMpa": 40.0
+    },
+    "manufacturingLocation": {
+      "raw": "Mile End",
+      "searchableText": "mile end",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l202-l206] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1264-l1271]"
+    },
+    "lifecycleScope": {
+      "value": "cradle-to-gate with modules C1-C4 and module D",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l39]"
+    },
+    "carbon": [
+      {
+        "stage": "A1-A3",
+        "status": "Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l202-l206] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1264-l1271]",
+        "valueRaw": "215",
+        "valueNumber": 215.0,
+        "unit": "kg CO2-eq"
+      },
+      {
+        "stage": "A4",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "A5",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B1",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B2",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B3",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B4",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B5",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B6",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B7",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C1",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C2",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C3",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C4",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "D",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      }
+    ],
+    "comparabilityFlags": []
+  },
+  {
+    "id": "hallett_s4020_e3150f_mile_end",
+    "parentProductId": "hallett_group_ready_mix_concrete_products",
+    "productName": {
+      "value": "S4020 E3150F",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l218-l222] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1264-l1271]"
+    },
+    "manufacturer": {
+      "value": "Hallett Group Pty Ltd",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l2050]"
+    },
+    "epdRegistrationNumber": {
+      "value": "EPD-IES-0009353:003",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l11]"
+    },
+    "canonicalProductPage": "wiki/products/hallett_group_ready_mix_concrete_products.md",
+    "rawSource": "raw/epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf.md",
+    "declaredUnit": {
+      "value": "1 m3 of Ready Mix concrete at the batching plant gate which is purchased by the customer and is paid for.",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l399-l407]"
+    },
+    "compressiveStrength": {
+      "raw": "40 MPa",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l218-l222] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1264-l1271]",
+      "valueMpa": 40.0
+    },
+    "manufacturingLocation": {
+      "raw": "Mile End",
+      "searchableText": "mile end",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l218-l222] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1264-l1271]"
+    },
+    "lifecycleScope": {
+      "value": "cradle-to-gate with modules C1-C4 and module D",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l39]"
+    },
+    "carbon": [
+      {
+        "stage": "A1-A3",
+        "status": "Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l218-l222] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1264-l1271]",
+        "valueRaw": "173",
+        "valueNumber": 173.0,
+        "unit": "kg CO2-eq"
+      },
+      {
+        "stage": "A4",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "A5",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B1",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B2",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B3",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B4",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B5",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B6",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B7",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C1",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C2",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C3",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C4",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "D",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      }
+    ],
+    "comparabilityFlags": []
+  },
+  {
+    "id": "hallett_s5010_e1150h_mile_end",
+    "parentProductId": "hallett_group_ready_mix_concrete_products",
+    "productName": {
+      "value": "S5010 E1150H",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l250-l251] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1264-l1271]"
+    },
+    "manufacturer": {
+      "value": "Hallett Group Pty Ltd",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l2050]"
+    },
+    "epdRegistrationNumber": {
+      "value": "EPD-IES-0009353:003",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l11]"
+    },
+    "canonicalProductPage": "wiki/products/hallett_group_ready_mix_concrete_products.md",
+    "rawSource": "raw/epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf.md",
+    "declaredUnit": {
+      "value": "1 m3 of Ready Mix concrete at the batching plant gate which is purchased by the customer and is paid for.",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l399-l407]"
+    },
+    "compressiveStrength": {
+      "raw": "50 MPa",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l250-l251] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1264-l1271]",
+      "valueMpa": 50.0
+    },
+    "manufacturingLocation": {
+      "raw": "Mile End",
+      "searchableText": "mile end",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l250-l251] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1264-l1271]"
+    },
+    "lifecycleScope": {
+      "value": "cradle-to-gate with modules C1-C4 and module D",
+      "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l39]"
+    },
+    "carbon": [
+      {
+        "stage": "A1-A3",
+        "status": "Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l250-l251] [cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l1264-l1271]",
+        "valueRaw": "252",
+        "valueNumber": 252.0,
+        "unit": "kg CO2-eq"
+      },
+      {
+        "stage": "A4",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "A5",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B1",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B2",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B3",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B4",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B5",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B6",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "B7",
+        "status": "Not Declared",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C1",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C2",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C3",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "C4",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      },
+      {
+        "stage": "D",
+        "status": "Not Available",
+        "indicator": "GWPt",
+        "citation": "[cite:epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf_l401-l411]"
+      }
+    ],
+    "comparabilityFlags": []
   },
   {
     "id": "holcim_australia_qe252m100",

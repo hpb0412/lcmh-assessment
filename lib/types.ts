@@ -16,6 +16,7 @@ export interface CarbonStage {
 
 export interface Product {
   id: string;
+  parentProductId?: string;
   productName: { value: string; citation: string };
   manufacturer: { value: string; citation: string };
   epdRegistrationNumber: { value: string; citation: string };
